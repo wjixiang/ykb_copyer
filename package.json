@@ -1,0 +1,30 @@
+{
+  "name": "ykb_copyer",
+  "version": "1.0.0",
+  "description": "医考帮爬虫",
+  "main": "main.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjixiang/ykb_copyer.git"
+  },
+  "keywords": [
+    "fl5ox03"
+  ],
+  "author": "wjc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjixiang/ykb_copyer/issues"
+  },
+  "homepage": "https://github.com/wjixiang/ykb_copyer#readme",
+  "dependencies": {
+    "esbuild": "^0.23.1",
+    "esbuild-plugin-copy": "^2.1.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}

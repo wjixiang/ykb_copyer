@@ -1,0 +1,16 @@
+{
+  "name": "2024-09-23-06-14-06-686",
+  "cls": "内科学",
+  "unit": "第二篇 第十四章 急性呼吸窘迫综合征",
+  "mode": "单选题",
+  "test": "下列选项中，符合ARDS诊断标准的是",
+  "option": [
+    "A.PaO₂/FiO₂≤200mmHg，PCWP≤18mmHg",
+    "B.PaO₂/FiO₂≤300mmHg，PCWP≤18mmHg",
+    "C.PaO₂/FiO₂≤200mmHg，PCWP≥18mmHg",
+    "D.PaO₂/FiO₂≤300mmHg，PCWP≥18mmHg"
+  ],
+  "answer": "答案：A",
+  "point": "",
+  "discuss": ""
+}

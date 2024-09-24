@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-23-04-50-12-048",
+  "cls": "内科学",
+  "unit": "第六篇 第八章 骨髓增生异常综合征",
+  "mode": "单选题",
+  "test": "骨髓增生异常综合征病人的骨髓幼稚细胞中有Auer小体，见于哪一种类型",
+  "option": [
+    "A.MDS-SLD",
+    "B.MDS-MLD",
+    "C.MDS-EB-1",
+    "D.MDS-EB-2",
+    "E.MDS伴孤立（5q）"
+  ],
+  "answer": "答案：D",
+  "point": "（P565）“表6-8-2 MDS 2016年的WHO修订分型”（D对ABCE错）。",
+  "discuss": "骨髓增生异常综合征（MDS）病人的骨髓幼稚细胞中有Auer小体，见于MDS-EB-2（D对），而MDS-SLD（A错）、MDS-MLD（B错）、MDS-EB-1（C错）、MDS伴孤立（5q）（E错）无Auer小体。"
+}

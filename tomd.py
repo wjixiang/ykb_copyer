@@ -14,13 +14,19 @@ def json_to_md(folder_path, output_folder):
             with open(file_path, 'r') as file:  
                 try:  
                     data = json.load(file)  
-                    print(data)
-                    # 拼接所有键值为一个字符串  
-                    mode = data["mode"]
+                    # print(data)
+                    # 拼接所有键值为一个字符串 
+                    try: 
+                        mode = data["mode"]
+                        mode = mode.replace("型题","")
+                    except:
+                        mode = "A1"
                     if(mode=="C"):
                         mode = "A1"
                     if(mode=="A3/A4"):
                         mode = "A3"
+                    if(mode=="单选题"):
+                        mode="A1"
 
                     option = ""
                     for i in data["option"]:
@@ -28,12 +34,13 @@ def json_to_md(folder_path, output_folder):
                     
                     unit = data["unit"].replace(' ','-')
                     unit = unit.replace("\xa0","-")
-                    markdown_content = f"""---
+                    try:
+                        markdown_content = f"""---
 class: {data["cls"]}
 mode: {mode}
 tags:
-  - 真题
   - 医考帮
+  - 习题
   - {unit}
 ---
 
@@ -41,7 +48,7 @@ tags:
 {data["test"]}
 {option}
 # A
-{data["answer"]}
+{data["answer"].replace("答案：","")}
 # D
 ```ad-note
 title:课本出处
@@ -56,6 +63,8 @@ collapse:false
 ```
 
 """
+                    except:
+                        print("skip")
 
                     # 创建 Markdown 文件名  
                     md_filename = f"{os.path.splitext(filename)[0]}.md"  

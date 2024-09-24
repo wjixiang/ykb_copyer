@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-23-06-27-10-126",
+  "cls": "内科学",
+  "unit": "第三篇 第二章 心力衰竭",
+  "mode": "单选题",
+  "test": "下列漂浮导管血液动力学参数提示心功能正常的一项是",
+  "option": [
+    "A.PCWP＞12mmHg",
+    "B.PCWP＜12mmHg",
+    "C.CO＜3.5L/min",
+    "D.CI＜2.5L/＜min•m²",
+    "E.RAP＞10mmHg"
+  ],
+  "answer": "答案：B",
+  "point": "（P169）“正常时CI＞2.5L（min·m²），PCWP＜12mmHg（B对AD错）”。",
+  "discuss": "PCWP＜12mmHg（B对）为心功能正常的漂浮导管血液动力学参数，PCWP＞12mmHg（A错）、CO＜3.5L/min（C错）、CI＜2.5L/＜min·m²（D错）和RAP＞10mmHg（E错）不是心功能正常的漂浮导管血液动力学参数。"
+}

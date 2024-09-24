@@ -25,7 +25,7 @@ def remove_duplicate_json_files(folder_path):
                         # 如果不存在，记录该值并保留文件  
                         unique_test_values[test_value] = filename  
                         # 可选：重命名保留的文件  
-                        new_filename = f"{filename}"  
+                        new_filename = f"ct{filename}"  
                         new_file_path = os.path.join(folder_path, new_filename)  
                         os.rename(file_path, new_file_path)  
                         print(f"保留文件并重命名: {new_filename}")  

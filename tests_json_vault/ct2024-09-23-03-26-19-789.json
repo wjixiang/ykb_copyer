@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-23-03-26-19-789",
+  "cls": "内科学",
+  "unit": "第四篇 第十一章 病毒性肝炎",
+  "mode": "X型题",
+  "test": "下列哪些是与HBV感染相关的血清学标志物",
+  "option": [
+    "A.HBsAg",
+    "B.抗-HBs",
+    "C.抗-HBc",
+    "D.抗-HBe",
+    "E.抗-HBc-lgM"
+  ],
+  "answer": "答案：ABCDE",
+  "point": "（P389）“HBV感染相关的血清学标志物包括HBsAg（A对）、抗-HBs（B对）、HBeAg、抗-Hbe（D对）、抗-HBc（C对）和抗-HBc-IgM（E对）”。",
+  "discuss": "HBV（乙肝肝炎病毒）感染相关的血清学标志物包括HBsAg（A对）、抗-HBs（B对）、HBeAg、抗-Hbe（D对）、抗-HBc（C对）和抗-HBc-IgM（E对）。HBsAg阳性表示提示HBV感染。"
+}

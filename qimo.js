@@ -1,6 +1,6 @@
 "2024-09-24-01-47-45-427"
 
-let record 
+var record 
 
 function hasNullValue(obj) {  
     // 检查对象是否为 null  
@@ -24,8 +24,14 @@ function hasNullValue(obj) {
 
 function get_cls(){  
     let discuss = id("com.yikaobang.yixue:id/include_title_center").findOne(5000);  
-    console.log(discuss.text());  
-    return discuss.text();  
+    if(discuss==null){
+        reset()
+        return get_cls()
+    }else{
+        let cls = discuss.text();
+        console.log(cls);  
+        return cls;  
+    }
 }  
 
 function get_frame(){  
@@ -57,32 +63,6 @@ function get_unit(){
     }
 }
 
-// function get_unit(frame){  
-//     let unitText = null;  
-//     let parent = frame.parent()
-//     let children
-//     if(parent==null||parent.childCount()<1){
-//         return(null)
-//     }else{
-//         children = parent.children();  
-//     }
-//     for (let i = 0; i < children.length; i++) {  
-//         let a = children[i];  
-//         if (a!=null&&a.className() == "android.widget.RelativeLayout" && a.childCount() > 0) { // 检查子元素数量  
-//             let unit = a.children();  
-//             if(a.length>0){
-//                 // for(let j = 0; j < children.length; j++){
-
-//                 // }
-
-//                 console.log(unit[0].text());  
-//             unitText = unit[0].text();  
-//             break; // 找到后退出循环  
-//             }
-//         }  
-//     }  
-//     return unitText;  
-// }  
 
 function get_mode(frame){  
     for (let i = 0; i < frame.children().length; i++) {  
@@ -239,6 +219,17 @@ function get_discuss(frame){
     return "";  
 }  
 
+function get_numb(){
+    let number = id("pagenumtv").findOne(3000)
+    if(number!=null){
+        let numlist =  number.text().replace(" ","").split("/")
+        console.log(numlist[0])
+        return(numlist[0])
+    }else{
+        return(null)
+    }
+}
+
 function getFormattedTimestamp() {  
     const now = new Date();  
     const year = now.getFullYear();  
@@ -256,7 +247,8 @@ function fetch(f){
     let timestamp = getFormattedTimestamp();  
     let test = {  
         name: timestamp,  
-        cls: get_cls(),  
+        cls: get_cls(), 
+        numb: get_numb(), 
         unit: get_unit(f),  
         mode: get_mode(f),  
         test: get_test(f),  
@@ -270,6 +262,7 @@ function fetch(f){
 
 function savejson(test){  
     let name = "/sdcard/tests/"+test.name+".json"  
+    record = test
     const jsonData = JSON.stringify(test, null, 2); // 第二个参数用于格式化，2 表示缩进两个空格  
     files.create(name);  
     files.write(name, jsonData)  
@@ -277,18 +270,90 @@ function savejson(test){
     return(jsonData)  
 }  
 
-function reset(){
-    exit()
+function exit(){
+    while(!text("确定").exists()){
+        sleep(500)
+        if(id("close").exists()){
+            console.log("广告")
+            id("close").findOne().click()
+        }  
+        back()
+    }
+    
+    text("确定").findOne().click()
 }
 
-function main(){  
-    for (let i = 0; i < 1000; i++) {  
+function sim_click(text){
+    let uniter = textContains(text).findOne(250)
+    while(uniter==null){
+        swipe(700,2000 ,700 ,1800 ,500)
+        sleep(250)
+        uniter = textContains(text).findOne(250)
+    }
+    let uniter1 = uniter.parent().bounds()
+    console.log(uniter1.centerY())
+
+    while(uniter1.centerY()>device.height-200){
+        swipe(700,2000 ,700 ,1800 ,1000)
+        uniter1 = textContains(text).findOne().parent().bounds()
+    }
+
+    sleep(1000)
+    // let uniter2 = textContains(text).findOne().parent().bounds()
+    // console.log(uniter2.centerY())
+    click(uniter1.centerX()/2,uniter1.centerY())
+}
+function reset(){
+    console.log("重置")
+    if(id("close").exists()){
+        console.log("广告")
+        id("close").findOne().click()
+    }   
+    exit()
+    app.launchApp("医考帮")
+    while(!(text("题库").exists() || id("close").exists())){
+        sleep(250)
+    }
+    
+    sleep(3000)    
+    if(id("close").exists()){
+            console.log("广告")
+            id("close").findOne().click()
+    }
+    // click(720,179)
+    sleep(1000)
+    click(1190,282)
+    sleep(5000)
+    console.log(record.cls)
+        sim_click(record.cls)
+        console.log(record.unit)
+        sleep(1000)
+        sim_click(record.unit)
+        sleep(1000)
+    let numb = record.numb.split("/")[0]
+    console.log(numb)
+    sim_click(numb)
+
+}
+
+function main(){ 
+    var numb = 1
+    var json = null
+    for (let i = 0; i <10000; i++) {  
+        if(id("close").exists()){
+            reset()
+        }
+        if(text("背题模式").exists()){
+            console.log(json)
+            reset()
+        }
 
         if(text("进入下一章").exists()){
             console.log("切换章节")
             text("进入下一章").findOne().click()
             sleep(2000)
-            text("1").findOne(500).parent().click()
+            
+            text("1").findOne(8000).parent().click()
         // click(160,657)
             sleep(500)
             console.log(1233)
@@ -300,7 +365,7 @@ function main(){
         let frame = get_frame();  
         for (let i = 0; i < frame.length; i++) {  
             let f = frame[i];  
-            let json = fetch(f);  
+            json = fetch(f);  
             console.log(json);  
             if(hasNullValue(json)){
                 continue;
@@ -312,11 +377,18 @@ function main(){
         swipe(1000, 1000, 700, 1000, 100);  
         sleep(100);  
         if (text("进入下一章").exists()) {  
+
             console.log("切换章节");  
             text("进入下一章").findOne().click();  
             sleep(2000);  
-            click(156, 721);  
+            //判断是否存在章节脱节
+            text("1").findOne(3000).parent().click()
+            // click(156, 721);  
             sleep(500);  
+            if(get_uni()==record.unit){  
+                console.log("!!!发现章节脱落!!!")
+                reset()
+            }
         }  
     }  
 }  

@@ -1,6 +1,11 @@
-while(!text("确定").exists()){
-    sleep(300)
-    back()
+function get_unit(){
+    let discuss = id("questiondetails_tv_title").findOne(500)
+    if(discuss!=null){
+        console.log(discuss.text())
+        return(discuss.text())
+    }else{
+        return(null)
+    }
 }
 
-text("确定").findOne().click()
+if(get_unit=="")

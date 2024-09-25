@@ -1,0 +1,18 @@
+{
+  "name": "2024-09-25-06-53-03-666",
+  "cls": "生物化学",
+  "numb": "19",
+  "unit": "第二章 核酸的结构与功能",
+  "mode": "A1型题",
+  "test": "1991N8A 下列关于RNA的说法哪项是正确的",
+  "option": [
+    "A.有rRNA、mRNA和tRNA三种",
+    "B.mRNA中含有遗传密码",
+    "C.tRNA是最小的一种RNA",
+    "D.胞浆中只有mRNA",
+    "E.rRNA是合成蛋白质的场所"
+  ],
+  "answer": "B",
+  "point": "（P43）“RNA可以分为编码RNA（coding RNA）和非编码RNA（non-coding RNA）。编码RNA是那些从基因组上转录而来、其核甘酸序列可以翻译成蛋白质的RNA，编码RNA仅有信使RNA（messenger RNA， mRNA）一种。非编码RNA不编码蛋白质。非编码RNA可以分为两类。一类是确保实现基本生物学功能的RNA，包括转运RNA （transfer RNA , tRNA）、核糖体RNA（ribosomal RNA， rRNA）、端粒RNA、信号识别颗粒（signal recognition particle， SRP） RNA等，它们的丰度基本恒定，故称为组成性非编码RNA（constitutive non-coding RNA）”（A错）。（P47）“以rRNA为主要成分的核糖体是蛋白质合成的场所”（E错）。（P49）“scRNA存在细胞质中（D错），与蛋白质结合形成复合体后发挥生物学功能”。",
+  "discuss": "rRNA与核糖体蛋白共同构成核糖体，为蛋白质生物合成所需要的mRNA，tRNA以及多种蛋白因子提供了相互结合和相互作用的空间，E选项不严谨。生物体内目前已发现的RNA有十余种，rRNA、mRNA和tRNA只是其中最主要的三种类型（A错）。tRNA也只是在rRNA、mRNA和tRNA三者中最小，所有RNA中最小的应为miRNA（C错）。mRNA含有遗传密码（B对），为蛋白质的生物合成提供模板。rRNA、mRNA、tRNA、miRNA等多种RNA均存在于胞浆中（D错）。"
+}

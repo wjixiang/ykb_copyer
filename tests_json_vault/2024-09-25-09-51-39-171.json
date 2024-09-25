@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-25-09-51-39-171",
+  "cls": "病理学",
+  "numb": "38",
+  "unit": "第十四章 生殖系统和乳腺疾病",
+  "mode": "A1型题",
+  "test": "2012N49A 下列原癌基因中，其表达产物与乳腺癌预后明确相关的是",
+  "option": [
+    "A.ras",
+    "B.jun",
+    "C.myc",
+    "D.her2/neu"
+  ],
+  "answer": "D",
+  "point": "（P298）“HER2过度表达者，乳腺癌增殖活性高，预后差”（D对）。",
+  "discuss": "her2/neu（D对）基因为乳腺癌的原癌基因。取名her2，是由于其表达产物的结构与人表皮因子受体（human epidermal growth factor receptor，即EGFR，或称her1）相似；又名neu，是由于其最初是在大鼠神经母细胞瘤（neuroblastoma）的细胞株内被发现的。her2/neu基因的表达与乳腺癌的预后密切相关，her2过度表达（可激活EGFR的信号通路，促进肿瘤增殖）者，乳腺癌增殖活性高，预后差。ras（A错）、jun（B错）、myc（C错）均为常见的原癌基因，但表达产物均与乳腺癌预后无关。备注：her2/neu基因还有一个名字为erb-B2，是由于其结构与禽类原始红细胞白血病原癌基因B（erythroblastosis oncogene B，后证明即为EGFR）相似而得名。"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-25-07-12-29-236",
+  "cls": "生物化学",
+  "numb": "25",
+  "unit": "第十四章 RNA 的合成",
+  "mode": "A1型题",
+  "test": "2020N24A 真核生物转录前起始复合物中，识别TATA盒的转录因子是",
+  "option": [
+    "A.TFⅡA",
+    "B.TFⅡB",
+    "C.TFⅡD",
+    "D.TFⅡF"
+  ],
+  "answer": "C",
+  "point": "（P271）“表14-3 参与 RNA pol Ⅱ转录的 TFⅡ”。",
+  "discuss": "真核生物转录起始复合物中识别TATA盒转录因子的是TFⅡD（C对），TFⅡD含TBP（TATA binding protein，TATA盒结合蛋白质）亚基，可以结合启动子的TATA盒DNA序列。TFⅡA（A错）的功能是辅助和加强TFⅡD的TBP亚基与DNA的结合。TFⅡB（B错）的功能是结合TFⅡD稳定TFⅡD-DNA 复合物，介导RNA pol Ⅱ的募集等。TFⅡF（D错）的功能是结合RNA pol Ⅱ并随其进入转录延长阶段，防止其与 DNA 的接触。"
+}

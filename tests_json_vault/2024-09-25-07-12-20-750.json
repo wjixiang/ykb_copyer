@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-25-07-12-20-750",
+  "cls": "生物化学",
+  "numb": "19",
+  "unit": "第十四章 RNA 的合成",
+  "mode": "A1型题",
+  "test": "2009N35A 真核生物RNA聚合酶Ⅱ催化转录后的产物是",
+  "option": [
+    "A.tRNA",
+    "B.hnRNA",
+    "C.5.8S rRNA",
+    "D.5S rRNA"
+  ],
+  "answer": "B",
+  "point": "（P269）“表14-2 真核生物的RNA聚合酶”（B对）。",
+  "discuss": ""
+}

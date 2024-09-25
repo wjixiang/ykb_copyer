@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-25-07-12-19-404",
+  "cls": "生物化学",
+  "numb": "19",
+  "unit": "第十四章 RNA 的合成",
+  "mode": "A1型题",
+  "test": "2009N35A 真核生物RNA聚合酶Ⅱ催化转录后的产物是",
+  "option": [
+    "A.tRNA",
+    "B.hnRNA",
+    "C.5.8S rRNA",
+    "D.5S rRNA"
+  ],
+  "answer": "B",
+  "point": "（P269）“表14-2 真核生物的RNA聚合酶”（B对）。",
+  "discuss": "真核生物主要有三种不同的 RNA 聚合酶，分别为 RNA 聚合酶Ⅰ、RNA 聚合酶Ⅱ和RNA 聚合酶Ⅲ（九版教材P270新提及了植物中还存在RNA 聚合酶Ⅳ和RNA 聚合酶Ⅴ）。RNA聚合酶Ⅰ催化生成的产物为rRNA的前体45S rRNA，45S rRNA再加工成28S、5.8S（C错）及18S rRNA；RNA聚合酶Ⅱ催化生成的产物为mRNA前体hnRNA（B对）、lncRNA、piRNA和miRNA；RNA聚合酶Ⅲ催化生成的产物为tRNA（A错），5S rRNA（D错）和snRNA（记忆为3个“三”：three→t，三五牌香烟→5，san→sn）。"
+}

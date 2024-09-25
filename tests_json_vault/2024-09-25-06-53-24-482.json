@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-25-06-53-24-482",
+  "cls": "生物化学",
+  "numb": "35",
+  "unit": "第二章 核酸的结构与功能",
+  "mode": "A1型题",
+  "test": "2024N18A 下列RNA中，属于长链非编码RNA的是",
+  "option": [
+    "A.tRNA",
+    "B.siRNA",
+    "C.miRNA",
+    "D.lncRNA"
+  ],
+  "answer": "D",
+  "point": "（9版生物化学与分子生物学P49）“调控性非编码RNA按其大小分为非编码小RNA（sncRNA）、长非编码RNA（lncRNA）（D对）和环状RNA（circRNA）”。",
+  "discuss": "非编码RNA包括组成性非编码RNA和调控性非编码RNA，其中调控性非编码RNA按大小可分为非编码小RNA（sncRNA）、长非编码RNA（lncRNA）和环状RNA（circRNA）。lncRNA（D对）是一类长度200～100000个核苷酸的RNA分子，属于长非编码RNA，它不编码任何蛋白质，可从染色质重构、转录调控以及转录后加工等多个层面实现对基因表达的调控。tRNA（A错）属于组成性非编码RNA，由74～94个核苷酸组成，它的主要功能是在蛋白质合成过程中将氨基酸输送到核糖体。siRNA（干扰小RNA）（B错）和miRNA（微RNA）（C错）均属于非编码小RNA，siRNA可以诱导mRNA的降解，也可以抑制转录；miRNA可在转录后水平调节靶基因的表达。"
+}

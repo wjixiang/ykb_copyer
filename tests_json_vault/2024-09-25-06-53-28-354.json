@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-25-06-53-28-354",
+  "cls": "生物化学",
+  "numb": "38",
+  "unit": "第二章 核酸的结构与功能",
+  "mode": "A1型题",
+  "test": "2015N26A 能使外源性侵入基因表达的mRNA降解的核酸是",
+  "option": [
+    "A.snRNA",
+    "B.hnRNA",
+    "C.siRNA",
+    "D.scRNA"
+  ],
+  "answer": "C",
+  "point": "（P50）“外源性siRNA来源于外源入侵的基因表达的双链RNA，经Dice切割所产生的具有特定长度（21～23bp）和特定序列的小片段RNA”（C对）。",
+  "discuss": "能使外源性侵入基因表达的mRNA降解的核酸是siRNA（小干扰RNA）（C对）。snRNA（核小RNA）主要参与hnRNA的剪接和转运（P49）（A错）。hnRNA（不均一核RNA、杂化核RNA）为mRNA前体，经加工修饰（P45）可变成mRNA（B错）。scRNA（胞质小RNA）是信号肽识别体的组成部分，参与信号转导（P49）（D错）。"
+}

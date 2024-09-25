@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-25-07-12-28-909",
+  "cls": "生物化学",
+  "numb": "25",
+  "unit": "第十四章 RNA 的合成",
+  "mode": "A1型题",
+  "test": "2018N24A RNA生物合成时，转录因子TFⅡ D结合的部位是",
+  "option": [
+    "A.TATA盒",
+    "B.ATG",
+    "C.GC盒",
+    "D.poly A"
+  ],
+  "answer": "A",
+  "point": "（P271）“通用转录因子TFⅡD不是一种单一蛋白质。它实际上是由TATA结合蛋白（TBP）和8～10个TBP相关因子（TAFs）共同组成的复合物。TBP结合一个10bp长度DNA片段，刚好覆盖TATA盒（A对），而含有TAFs的TFⅡD则可覆盖一个35bp或者更长的区域”。",
+  "discuss": "转录因子TFⅡD是由TATA结合蛋白（TBP）和8～10个TBP相关因子（TAFs）共同组成的复合物，其中TATA结合蛋白可与TATA盒（A对）结合。"
+}

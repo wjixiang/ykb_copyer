@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-25-07-10-45-539",
+  "cls": "生物化学",
+  "numb": "22",
+  "unit": "第十二章 DNA 的合成",
+  "mode": "B型题",
+  "test": "2011N129B 在DNA复制时，能与DNA单链结合的蛋白质是",
+  "option": [
+    "A.SSB",
+    "B.DnaB蛋白",
+    "C.DNA-polⅠ",
+    "D.DnaG蛋白"
+  ],
+  "answer": "A",
+  "point": "（P238）“表12-3 原核生物复制中参与DNA解链的相关蛋白质”（A对）。",
+  "discuss": "由表14-2可知，原核生物DNA复制时，能与DNA单链结合的蛋白质是SSB（single stranded binding，单链结合蛋白）（A对）。DnaB蛋白（B错）又称解旋酶，在DNA复制时，能解开DNA双链（记忆技巧：掰<Bai>开双链，另B字母本身为螺旋状）。DnaG蛋白（D错）又称引物酶，在DNA复制时，能合成RNA引物（记忆技巧：Guide<引导>）。DNA-polⅠ（C错）即DNA聚合酶Ⅰ，在DNA复制时，能对复制中的错误进行校对，对复制和修复中出现的空隙进行填补（P236）。"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-25-07-16-34-013",
+  "cls": "生物化学",
+  "numb": "28",
+  "unit": "第十七章 细胞信号转导的分子机制",
+  "mode": "X型题",
+  "test": "2015N159X 参与GPCR通路的分子有",
+  "option": [
+    "A.G蛋白",
+    "B.cAMP",
+    "C.FAD",
+    "D.AC"
+  ],
+  "answer": "ABD",
+  "point": "（P338）“1.cAMP-PKA途径 该途径以靶细胞内cAMP浓度改变和PKA激活为主要特征”（九版生理学P28）“受体-G蛋白-AC-cAMP-PKA通路”（ABD对）。",
+  "discuss": "GPCR即G蛋白偶联受体（G protein-coupled receptor）（P337），GPCR通路即G蛋白偶联受体介导的信号转导通路（P338）。GPCR通路包括受体-G蛋白-AC-cAMP-PKA通路（ABD对）、受体-G蛋白-PLC-IP₃/DAG-PKC通路、Ca²⁺/钙调蛋白依赖的蛋白激酶通路等不同类型。FAD（P56）即黄素腺嘌呤二核苷酸，是体内氧化还原酶（如脂酰CoA脱氢酶、琥珀酸脱氢酶）的辅基，主要起递氢体的作用，与信号转导通路无关。"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-25-00-05-23-694",
+  "cls": "生理学",
+  "numb": "38",
+  "unit": "第二章 细胞的基本功能",
+  "mode": "B型题",
+  "test": "2008N121B 与胞浆中cAMP生成有直接关系的G蛋白效应器是",
+  "option": [
+    "A.磷脂酶A",
+    "B.磷脂酶C",
+    "C.腺苷酸环化酶",
+    "D.鸟苷酸环化酶"
+  ],
+  "answer": "C",
+  "point": "（P27）“G蛋白效应器（Gproteineffector）是指G蛋白直接作用的靶标，包括效应器酶、膜离子通道以及膜转运蛋白等。主要的效应器酶有腺苷酸环化酶（adenylylcyclase，AC）（C对）、磷脂酶 C（phospholipase C，PLC）（B对）、磷脂酶 A2（phospholipase A2，PLA2）和磷酸二酯酶（phosphodiesterase，PDE）等”。",
+  "discuss": "G蛋白效应器是指G蛋白直接作用的靶标，G蛋白效应器的重要功能是催化生成第二信使，腺苷酸环化酶（AC）和磷脂酶C（PLC）是两种最常见的G蛋白效应器，腺苷酸环化酶可催化生成的第二信使为环磷酸腺苷（cAMP）（C对），磷脂酶C可催化生成的第二信使为三磷酸肌醇（IP₃）和二酰甘油（DG）。"
+}

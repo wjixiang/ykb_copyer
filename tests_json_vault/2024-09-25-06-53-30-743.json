@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-25-06-53-30-743",
+  "cls": "生物化学",
+  "numb": "40",
+  "unit": "第二章 核酸的结构与功能",
+  "mode": "B型题",
+  "test": "2021N122B 长度大于200nt的RNA分子是",
+  "option": [
+    "A.tRNA",
+    "B.lncRNA",
+    "C.scRNA",
+    "D.miRNA"
+  ],
+  "answer": "B",
+  "point": "（P49）“调控性非编码RNA按其大小分为非编码小RNA（sncRNA）、长非编码RNA（lncRNA）和环状RNA（cireRNA）…通常认为，sncRNA的长度小于200nt。sncRNA包括微RNA（miRNA）、干扰小RNA（siRNA）和piRNA。微RNA（D错）是近年来研究较多的内源性sncRNA，它在真核生物中大量存在，长度在20～25nt之间”。（P50）“长非编码RNA（B对）是一类长度为200～100000个核苷酸的RNA分子”。（P45）“已知的tRNA（A错）都是由74～95个核苷酸组成的”。",
+  "discuss": "长度大于200nt（nt表示核苷酸数目）的RNA分子是lncRNA（长非编码RNA）（B对），lncRNA属于调控性非编码RNA，长度在200～100000nt之间。tRNA（A错）即转运RNA，属于组成性非编码RNA，目前已知的tRNA长度在74～95nt之间。miRNA（D错）即微RNA，属于调控性非编码RNA中的非编码小RNA，长度在20～25nt之间，广泛存在于真核生物中。ScRNA（P49）（C错）即胞质小RNA，属于组成性非编码RNA，长度小于200nt，存在细胞质中，与蛋白质结合形成复合体后发挥生物学功能。"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "2024-09-25-07-10-37-203",
+  "cls": "生物化学",
+  "numb": "17",
+  "unit": "第十二章 DNA 的合成",
+  "mode": "A1型题",
+  "test": "1996N30A DNA复制时下列哪一种酶是不需要的",
+  "option": [
+    "A.DDDP",
+    "B.DDRP",
+    "C.RDDP",
+    "D.连接酶",
+    "E.拓扑异构酶"
+  ],
+  "answer": "C",
+  "point": "九版生物化学未明确说明。",
+  "discuss": "DNA复制是在多种酶催化下的核苷酸聚合过程：首先解螺旋酶解开DNA双链，单链DNA结合蛋白稳定已解开的单链以及拓扑异构酶（E对）理顺DNA链，随后引物酶（依赖DNA的RNA聚合酶，DNA Dependent RNA Polymerase，DDRP）（B对）催化引物RNA链的合成，在引物的引导下，DNA聚合酶（依赖DNA的DNA聚合酶，DNA Dependent DNA Polymerase，DDDP）（A对）促进DNA链沿5’→3’方向延长，在复制终止后，由RNA酶水解RNA引物，DNA pol I填补空隙，最终DNA连接酶（D对）填补缺口。复制过程中不需要逆转录酶（依赖RNA的DNA聚合酶，RNA Dependent DNA Polymerase，RDDP）（C错，为本题正确答案）参与。"
+}

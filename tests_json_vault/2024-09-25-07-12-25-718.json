@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-25-07-12-25-718",
+  "cls": "生物化学",
+  "numb": "23",
+  "unit": "第十四章 RNA 的合成",
+  "mode": "B型题",
+  "test": "2010N131B TFⅡD的结合位点是",
+  "option": [
+    "A.TATA盒",
+    "B.GC盒",
+    "C.CAAT盒",
+    "D.CCAAT盒"
+  ],
+  "answer": "A",
+  "point": "（P271）“表14-3 参与RNA pol Ⅱ转录的TFⅡ”（A对）。",
+  "discuss": "TFⅡD是协助真核生物RNA pol Ⅱ的基本转录因子，TFⅡD不是一种单一蛋白质，它实际上是由TATA结合蛋白（TBP）和8～10个TBP相关因子（TAFs）共同组成的复合物。在转录起始过程中，TFⅡD中的TBP可在TAFs的协助下，结合至真核生物启动子的核心功能组件TATA盒（A对）。与TATA盒一样，GC盒和CAAT盒（P271）也属于启动子的功能组件，与GC盒（B错）结合的是转录因子SP1，与CAAT盒（C错）结合的是转录因子C/EBP。"
+}

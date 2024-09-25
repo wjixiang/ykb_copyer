@@ -1,0 +1,18 @@
+{
+  "name": "2024-09-25-07-12-55-867",
+  "cls": "生物化学",
+  "numb": "39",
+  "unit": "第十四章 RNA 的合成",
+  "mode": "B型题",
+  "test": "2003N98B 既含内含子又含外显子的RNA是",
+  "option": [
+    "A.rRNA",
+    "B.mRNA",
+    "C.tRNA",
+    "D.hnRNA",
+    "E.snRNA"
+  ],
+  "answer": "D",
+  "point": "（P277）“前体mRNA中被剪接去除的核酸序列即我们称之为内含子的序列，最终出现在成熟mRNA分子中、作为模板指导蛋白质翻译的序列即外显子序列”（D对）。",
+  "discuss": "既含内含子又含外显子的RNA是hnRNA（D对）：hnRNA是mRNA的未成熟前体，hnRNA与成熟mRNA之间的主要差别在于hnRNA中的一些片段将不出现于成熟mRNA中（B错），这些片段称为内含子，而那些保留于成熟mRNA中的片段则称为外显子。真核rRNA前体（P282）和真核tRNA前体（P282）亦包含内含子和外显子，但各自的成熟形式rRNA（A错）和tRNA（C错）经加工后均不含有内含子。snRNA（small nuclear RNA，核内小RNA）（P49）与多种蛋白形成复合体（剪接体），参与真核生物hnRNA内含子的加工剪接，但snRNA本身并不含内含子（E错）。"
+}

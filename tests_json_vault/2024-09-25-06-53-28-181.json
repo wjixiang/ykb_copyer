@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-25-06-53-28-181",
+  "cls": "生物化学",
+  "numb": "37",
+  "unit": "第二章 核酸的结构与功能",
+  "mode": "B型题",
+  "test": "2011N131B 能对外源侵入的双链RNA进行切割的核酸是",
+  "option": [
+    "A.hnRNA",
+    "B.siRNA",
+    "C.snoRNA",
+    "D.5SrRNA"
+  ],
+  "answer": "B",
+  "point": "（P50）“外源性siRNA来源于外源入侵的基因表达的双链RNA，经Dicer切割所产生的具有特定长度（21-23bp）和特定序列的小片段RNA。这些siRNA可以与AGO蛋白结合，并诱导这些mRNA的降解”（B对）。",
+  "discuss": "能对外源侵入的双链RNA进行切割的核酸是siRNA（小干扰RNA）（B对）。hnRNA（不均一核RNA、杂化核RNA）（A错）由DNA直接转录生成，为成熟mRNA的前体。SnoRNA（核仁小RNA）（C错）主要功能为参与rRNA的加工修饰。5SrRNA（D错）为核糖体的组成成分之一，参与构成原核生物和真核生物的大亚基。"
+}

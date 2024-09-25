@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-25-07-12-23-094",
+  "cls": "生物化学",
+  "numb": "21",
+  "unit": "第十四章 RNA 的合成",
+  "mode": "X型题",
+  "test": "2009N159X 参与真核生物hnRNA转录前起始复合物形成的因子有",
+  "option": [
+    "A.TFⅡD",
+    "B.TFⅡA",
+    "C.TBP",
+    "D.TFⅢ"
+  ],
+  "answer": "ABC",
+  "point": "（P272）“首先是TF Ⅱ D（A对）的TBP亚基结合TATA…形成Ⅱ D-Ⅱ A-Ⅱ B-DNA复合体”。（P272-P273）“具有转录活性的闭合复合体形成过程中，先由TBP（C对）结合启动子的TATA盒，这时DNA发生弯曲，然后TF II B与TBP结合，TF Ⅱ B也能与TATA盒上游邻近的DNA结合。TF Ⅱ A（B对）不是必需的，其存在时能稳定已与DNA结合的TF Ⅱ D-TBP复合体，并且在TBP与不具有特征序列的启动子结合时（这种结合比较弱）发挥重要作用。TF Ⅱ B可以结合RNA pol Ⅱ。TF Ⅱ B-TBP（A对）复合体再与由RNA pol Ⅱ和TF ⅡF组成的复合体结合”。",
+  "discuss": "与原核生物一样，真核生物转录起始也需要RNA pol（转录hnRNA需要的是RNA pol Ⅱ）对起始点上游DNA序列进行辨认和结合，生成转录前起始复合物（PIC）。转录起始时，真核生物的RNA pol不直接识别和结合模板的起始区，而是依靠转录因子（RNA pol Ⅱ对应是TFⅡ）（D错）识别并结合起始序列，故其起始复合物的装配过程比原核生物复杂的多：①由TFⅡD（A对）中的TBP（C对）识别TATA盒，并在TAFs的协助下结合到启动子区，然后TFⅡB与TBP结合，同时TFⅡB也能与DNA结合，TFⅡA（B对）可以稳定与DNA结合的TFⅡB-TBP复合体；②TFⅡB-TBP复合体与RNA pol Ⅱ-TFⅡF复合体结合，此举可降低RNA pol Ⅱ与DNA的非特异部位的结合，协助RNA pol Ⅱ靶向结合启动子；③TFⅡE和TFⅡH加入，形成起始复合物，装配完成。"
+}

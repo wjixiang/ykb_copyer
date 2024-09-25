@@ -40,7 +40,6 @@ class: {data["cls"]}
 mode: {mode}
 tags:
   - 医考帮
-  - 真题
   - 习题
   - {unit}
 ---

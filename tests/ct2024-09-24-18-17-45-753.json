@@ -1,0 +1,18 @@
+{
+  "name": "2024-09-24-18-17-45-753",
+  "cls": "儿科学",
+  "numb": "54",
+  "unit": "第十三章 造血系统疾病",
+  "mode": "单选题",
+  "test": "下列哪种情况可诊断为小细胞低色素性贫血",
+  "option": [
+    "A.MCV＞94fl，MCH＞32pg，MCHC＞35%",
+    "B.MCV＜80fl，MCH＜30pg，MCHC＞35%",
+    "C.MCV＜85fl，MCH＜28pg，MCHC＞32%",
+    "D.MCV＜80fl，MCH＜28pg，MCHC＜32%",
+    "E.MCV＜80fl，MCH＜32pg，MCHC＞38%"
+  ],
+  "answer": "D",
+  "point": "（P324）“表13-1贫血的细胞形态（D对A错）”。",
+  "discuss": "MCV＞94fl，MCH＞32pg，MCHC＞35%（A错）是大细胞性贫血。MCV＜80fl，MCH＜28pg，MCHC＜32%（D对）是小细胞低色素性贫血。"
+}

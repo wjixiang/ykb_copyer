@@ -1,0 +1,18 @@
+{
+  "name": "2024-09-24-18-00-05-498",
+  "cls": "儿科学",
+  "numb": "55",
+  "unit": "第十二章 泌尿系统疾病",
+  "mode": "单选题",
+  "test": "小细胞低色素性贫血的形态分类是",
+  "option": [
+    "A.MCV＜80fl，MCH＜28pg，MCHC＜31%",
+    "B.MCV＜80f1，MCH＜28pg，MCHC31%~38%",
+    "C.MCV80~94fl，MCH＜28pg，MCHC31%",
+    "D.MCV＜80fl，MCH 28~32pg，MCHC＜31%",
+    "E.MCV＜80fl，MCH 28~32pg，MCHC31%~38%"
+  ],
+  "answer": "A",
+  "point": "（P324）“表13-1贫血的细胞形态”（A对）。",
+  "discuss": "根据表13-1贫血的细胞形态，小细胞低色素性贫血的形态分类是MCV＜80fl，MCH＜26pg，MCHC＜31%（A对）。"
+}

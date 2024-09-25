@@ -1,0 +1,18 @@
+{
+  "name": "2024-09-24-18-17-46-189",
+  "cls": "儿科学",
+  "numb": "55",
+  "unit": "第十三章 造血系统疾病",
+  "mode": "单选题",
+  "test": "正细胞性贫血时",
+  "option": [
+    "A.MCV80~94fl，MCH28~32pg，MCHC32%~38%",
+    "B.MCV＞94fl，MCH＞32pg，MCHC32%~38%",
+    "C.MCV＜80fl，MCH＜28pg，MCHC32%~38%",
+    "D.MCV＜80fl，MCH＜28pg，MCHC＜32%",
+    "E.MCV＞94fl，MCH＜28pg，MCHC＜32%"
+  ],
+  "answer": "A",
+  "point": "（P324）“表13-1贫血的细胞形态”（A对BCD错）。",
+  "discuss": "正细胞性贫血是MCV80~94fl，MCH28~32pg，MCHC32%~38%（A对）。大细胞性贫血是MCV＞94fl，MCH＞32pg，MCHC32%~38%（B错）。单纯小细胞性贫血是MCV＜80fl，MCH＜28pg，MCHC32%~38%（C错）。小细胞低色素性贫血是MCV＜80fl，MCH＜28pg，MCHC＜32%（D错）。"
+}

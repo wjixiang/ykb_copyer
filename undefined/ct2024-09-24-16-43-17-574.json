@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-24-16-43-17-574",
+  "cls": "儿科学",
+  "numb": "166",
+  "unit": "第八章 感染性疾病",
+  "test": "确诊后，强化治疗阶段的最佳方案是",
+  "option": [
+    "A.INH RFP SM EMB",
+    "B.INH RFP PZA",
+    "C.INH RFP PZA SM",
+    "D.INH RFP EMB",
+    "E.INH RFP SM"
+  ],
+  "answer": "C",
+  "point": "（P196）“强化治疗阶段：联合使用INH、RFP、PZA及SM”（C对）。",
+  "discuss": "针对结核性脑膜炎的治疗原则是：早期、足量、联合、长期。在强化阶段需四联用药，且必须有INH 和RFP，最常用的配伍是INH RFP PZA SM，但是链霉素6岁以下小孩禁用（C对）。"
+}

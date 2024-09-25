@@ -1,0 +1,17 @@
+{
+  "name": "2024-09-24-15-14-07-076",
+  "cls": "儿科学",
+  "unit": "第四章 儿科疾病诊治原则",
+  "mode": "单选题",
+  "test": "配置2：1等张含钠液120ml需",
+  "option": [
+    "A.0.9%NaCl 80ml，5%NaHCO₃40ml",
+    "B.0.9%NaCl 80ml，1.8%NaHCO₃40ml",
+    "C.0.9%NaCl 80ml，10%GS 40ml",
+    "D.0.9%NaCl 40ml，5%NaHCO₃80ml",
+    "E.0.9%NaCl 80ml，1.4%NaHCO₃40ml"
+  ],
+  "answer": "E",
+  "point": "（P51）“表4-9”（E对）。",
+  "discuss": "由表4-9可知，配置100ml的等张含钠液需要0.9%NaCl 65ml和1.4%NaHCO₃ 35ml，故由数学比例式可推得配置2：1等张含钠液120ml需0.9%NaCl 80ml，1.4%NaHCO₃ 40ml（E对D错）。其中临床上常用的等张含钠液没有5%NaHCO₃（A错）、1.8%NaHCO₃（B错）、10%GS（C错）等。"
+}

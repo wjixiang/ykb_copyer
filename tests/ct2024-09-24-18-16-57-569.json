@@ -1,0 +1,18 @@
+{
+  "name": "2024-09-24-18-16-57-569",
+  "cls": "儿科学",
+  "numb": "23",
+  "unit": "第十三章 造血系统疾病",
+  "mode": "单选题",
+  "test": "以下哪项关于1岁时血红蛋白种类的叙述式正确的",
+  "option": [
+    "A.HbF不超过0.05",
+    "B.HbF占0.70，HbA约占0.30",
+    "C.以HbGowerl/Gower2为主",
+    "D.以HbPortland为主",
+    "E.以HbA₂为主"
+  ],
+  "answer": "A",
+  "point": "（P323）“出生后HbF迅速为HbA所代替，1岁时HbF不超过0.05（A对），2岁时HbF不超过0.02”。（P323）“胎儿6个月时HbF占0.90，而HbA仅占0.05~0.10；以后HbA合成逐渐增加，至出生时HbF约占0.70，HbA约占0.300（B错），HhA2＜0.01（E错）”。（P323）“血红蛋白Gowerl、Gower2（C错）和Portland（D错）在胚胎12周时消失，并为HbF所代替”。",
+  "discuss": "1岁时HbF不超过0.05（A对）。出生时HbF约占0.70，HbA约占0.30（B错）。血红蛋白Gowerl、Gower2（C错）和Portland（D错）在胚胎12周时消失，并为HbF所代替。出生时HbA约占0.30，HbA₂＜0.01（E错），不以HbA₂为主。"
+}

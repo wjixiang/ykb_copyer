@@ -16,6 +16,7 @@ function hasNullValue(obj) {
 
     // 检查对象的每个属性  
     if (typeof obj === 'object' && obj !== null) {  
+        console.log(obj)
         return Object.values(obj).some(hasNullValue); // 对对象的每个值递归检查  
     }  
 
@@ -267,7 +268,7 @@ function savejson(test){
     const jsonData = JSON.stringify(test, null, 2); // 第二个参数用于格式化，2 表示缩进两个空格  
     files.create(name);  
     files.write(name, jsonData)  
-    console.log("####保存成功####")  
+    console.log("\n####保存成功####\n\n\n")  
     return(jsonData)  
 }  
 
@@ -295,27 +296,7 @@ sleep(3000)
 
 }
 
-// function sim_click(text){
-//     let uniter = textContains(text).findOne(250)
-//     while(uniter==null){
-//         swipe(700,2000 ,700 ,1800 ,500)
-//         sleep(250)
-//         uniter = textContains(text).findOne(250)
-//     }
-//     let uniter1 = uniter.bounds()
 
-//     while(uniter1.centerY()>device.height-200){
-//         swipe(700,2000 ,700 ,1600 ,1000)
-//         uniter1 = textContains(text).findOne().bounds()
-//         sleep(500)
-//     }
-
-//     sleep(1000)
-//     // let uniter2 = textContains(text).findOne().parent().bounds()
-//     // console.log(uniter2.centerY())
-//     console.log(uniter1.centerX(),uniter1.centerY())
-//     click(uniter1.centerX()/2,uniter1.centerY())
-// }
 
 function sim_click(text){
     let uniter = textContains(text).findOne(250)
@@ -338,6 +319,23 @@ function sim_click(text){
     // console.log(uniter2.centerY())
     click(uniter1.centerX()/2,uniter1.centerY())
 }
+
+function sim_self_click(text){
+    let uniter = textContains(text).findOne(250)
+    while(uniter==null){
+        swipe(700,2000 ,700 ,1800 ,500)
+        sleep(250)
+        uniter = textContains(text).findOne(250)
+    }
+    let uniter1 = uniter.bounds()
+    console.log(uniter1.centerY())
+
+    sleep(1000)
+    // let uniter2 = textContains(text).findOne().parent().bounds()
+    // console.log(uniter2.centerY())
+    click(uniter1.right,uniter1.centerY())
+}
+
 function reset(){
     console.log("重置")
     if(id("close").exists()){
@@ -361,30 +359,34 @@ function reset(){
     }
     // click(720,179)
     sleep(1000)
-    // click(1190,282) 点击横栏
+    
+    text("大一期末").findOne().parent().parent().click()
+    console.log("点击横栏项目")
+
     sleep(5000)
     if(id("close").exists()){
         console.log("广告")
         id("close").findOne().click()
 
     }
+    console.log(record)
     console.log(record.cls)
-        sim_click(record.cls)
-        console.log(record.unit)
-        sleep(1000)
-        if(id("close").exists()){
-            console.log("广告")
-            id("close").findOne().click()
-    
-        }
-    
-        sim_click(record.unit)
-        sleep(1000)
-        if(id("close").exists()){
-            console.log("广告")
-            id("close").findOne().click()
-    
-        }
+    sim_click(record.cls)
+    console.log(record.unit)
+    sleep(1000)
+    if(id("close").exists()){
+        console.log("广告")
+        id("close").findOne().click()
+
+    }
+
+    sim_click(record.unit)
+    sleep(1000)
+    if(id("close").exists()){
+        console.log("广告")
+        id("close").findOne().click()
+
+    }
     let numb = record.numb.split("/")[0]
     console.log(numb)
     sleep(3000)
@@ -426,7 +428,9 @@ function main(){
             json = fetch(f);  
             console.log(json);  
             if(hasNullValue(json)){
+                console.log("\n跳过保存\n\n")
                 continue;
+
             } else{
                 savejson(json); 
             } 

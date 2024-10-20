@@ -360,7 +360,7 @@ function reset(){
     // click(720,179)
     sleep(1000)
     
-    text("大一期末").findOne().parent().parent().click()
+    text("大二期末").findOne().parent().parent().click()//调整学期
     console.log("点击横栏项目")
 
     sleep(5000)

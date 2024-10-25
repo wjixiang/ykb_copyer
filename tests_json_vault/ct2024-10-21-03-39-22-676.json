@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-03-39-22-676",
+    "cls": "生物化学与分子生物学",
+    "numb": "3",
+    "unit": "第二十四章 常用分子生物学技术的原理及其应用",
+    "mode": "A1",
+    "test": "中文命名为蛋白质印迹技术的是",
+    "option": [
+        "A.Southern blotting",
+        "B.Northern blotting",
+        "C.Western blotting",
+        "D.dot blotting",
+        "E.in situ hybridization"
+    ],
+    "answer": "C",
+    "point": "（P441）“相对应于DNA的Southern blotting（A错），RNA的Northern blotting（B错），蛋白质印迹被称为Western blotting（C对）…可以不经电泳分离而直接将样品点在NC膜上用于核酸杂交分析，这种方式被称为斑点印迹（dot blotting）（D错）；组织切片或细胞涂片可以直接用于杂交分析，称为原位杂交（in situ hybridization，ISH）（E错）”。",
+    "discuss": "蛋白质印迹技术被命名为Western blotting（C对）；DNA印迹技术命名为Southern blotting（A错）；RNA印迹技术命名为Northern blotting（B错）；斑点印迹技术被命名为dot blotting（D错）；原位杂交技术被命名为（in situ hybridization，ISH）（E错）。"
+}

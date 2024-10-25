@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-52-17-583",
+    "cls": "医学免疫学",
+    "numb": "18",
+    "unit": "第十七章 免疫调节",
+    "mode": "A1",
+    "test": "对PTK和PTP表述正确的是",
+    "option": [
+        "A.PTK能使蛋白质分子上酪氨酸残基磷酸化",
+        "B.PTP能使蛋白质分子中已磷酸化酪氨酸残基脱磷酸化",
+        "C.PTK常活跃在信号转导的启始阶段和上游阶段",
+        "D.上列A和B两项",
+        "E.上列A、B和C三项"
+    ],
+    "answer": "E",
+    "point": "（P143）“图17-2抑制性受体对活化性受体信号转导的负向调节作用”（AB对）。（P142）“活化性受体的ITAM→招募PTK→通常启动激活信号的转导”（C对，故E为本题正确答案）。",
+    "discuss": "PTK（protein　tyrosine　kinase，蛋白酪氨酸激酶）能使蛋白质分子上酪氨酸残基磷酸化（A对），PTP（protein　tyrosine　phosphatase，蛋白酪氨酸磷酸酶）能使蛋白质分子中已磷酸化酪氨酸残基脱磷酸化（B对），且活化性受体的ITAM（Immunoreceptor　tyrosine-based　activation　motif，免疫受体酪氨酸激活基序）通常在招募PTK后启动激活信号的转导，即PTK常活跃在信号转导的启始阶段和上游阶段（C对，故E为本题正确答案）。"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-02-50-08-058",
+    "cls": "生物化学与分子生物学",
+    "numb": "1",
+    "unit": "第二章 核酸的结构与功能",
+    "mode": "A1",
+    "test": "DNA分子中所含的碱基是",
+    "option": [
+        "A.GCTU",
+        "B.GACT",
+        "C.AGCU",
+        "D.GATU",
+        "E.TCAU"
+    ],
+    "answer": "B",
+    "point": "（P32）“A、G、C和T是构成DNA的碱基，A、G、C和U是构成RNA的碱基”（B对）。",
+    "discuss": "GCTU（A错）、 AGCU（C错）、GATU（D错）及TCAU（E错）中的U碱基是RNA分子中所含有的碱基，GACT（B对）才是DNA分子中所含有的碱基。"
+}

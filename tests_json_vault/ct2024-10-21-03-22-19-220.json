@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-03-22-19-220",
+    "cls": "生物化学与分子生物学",
+    "numb": "29",
+    "unit": "第十四章 RNA 的合成",
+    "mode": "A1",
+    "test": "真核细胞RNA聚合酶Ⅱ催化合成的RNA是",
+    "option": [
+        "A.rRNA",
+        "B.mRNA",
+        "C.tRNA",
+        "D.5SrRNA",
+        "E.18SrRNA"
+    ],
+    "answer": "B",
+    "point": "（P268）“RNA pol Ⅱ在核内转录生成前体mRNA，然后加工成mRNA（B对）并输送给胞质的蛋白质合成体系”。（P268）“RNA polⅠ位于细胞核的核仁，催化合成rRNA（A错）的前体， rRNA的前体再加工成28S、5.8S及18S rRNA（E错）”。（P268）“RNA pol Ⅲ位于核仁外，催化tRNA（C错）、5SrRNA（D错）和一些核小RNA（ snRNA）的合成”。",
+    "discuss": "真核生物RNA聚合酶Ⅱ催化合成的RNA为mRNA（B对）。RNA pol Ⅰ催化合成rRNA（A错）的前体， rRNA的前体再加工成28S、5.8S及18S rRNA（E错）。RNA pol Ⅲ催化tRNA（C错）、5SrRNA（D错）和一些核小RNA（snRNA）的合成。"
+}

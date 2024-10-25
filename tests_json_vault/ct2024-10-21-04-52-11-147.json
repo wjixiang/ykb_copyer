@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-52-11-147",
+    "cls": "医学免疫学",
+    "numb": "14",
+    "unit": "第十七章 免疫调节",
+    "mode": "A1",
+    "test": "哪些受体同时被交联可抑制B细胞的增殖",
+    "option": [
+        "A.TCR和BCRJ",
+        "B.BCR和FcγRⅡ-B",
+        "C.BCR和CR2",
+        "D.BCR和FcαR",
+        "E.TCR和FcγR"
+    ],
+    "answer": "B",
+    "point": "（P143）“FcγRⅡb发挥抑制作用需要与BCR发生交联…FcγRⅡb受激发而启动抑制信号转导，使抗体的产生受到限制”（B对）。（P142）“②C3d、iC3b、C3dg以及C3b-Ag-Ab复合物等可以与B细胞表面的CR2（CD21）结合，促进B细胞的活化”（C错）。",
+    "discuss": "BCR和FcγRⅡ-B（B对）同时被交联可抑制B细胞的增殖。BCR和CR2（C错）交联可促进B细胞的增殖。"
+}

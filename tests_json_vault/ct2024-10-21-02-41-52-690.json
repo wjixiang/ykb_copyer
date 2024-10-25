@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-02-41-52-690",
+    "cls": "生理学",
+    "numb": "58",
+    "unit": "第十一章 内分泌",
+    "mode": "A1",
+    "test": "在射乳反射中，除催产素外，下列哪种激素的分泌也增加",
+    "option": [
+        "A.GnRH",
+        "B.PRL",
+        "C.LH",
+        "D.FSH",
+        "E.GH"
+    ],
+    "answer": "B",
+    "point": "（P372）“射乳很容易建立条件反射，如母亲见到自己的婴儿、抚摸婴儿或听到婴儿的哭声等，均可引起射乳。OT还有类似催乳素释放因子的作用，能刺激腺垂体分泌催乳素（B对），因此在射乳时泌乳功能也同步增强”。",
+    "discuss": "因催产素有类催乳素（prolactin，PRL）似催乳素释放因子的作用，能刺激腺垂体分泌催乳素。故在射乳反射中，除催产素外，（B对）的分泌也增加。促性腺激素释放激素（gonadotropin-releasing hormone，GnRH）（A错）、黄体生成素（luteinizing hormone，LH）（C错）、卵泡刺激素（follicle stimulating hormone，FSH）（D错）、生长激素（growth hormone，GH）（E错）的分泌不受射乳反射影响。"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-21-04-14-00-885",
+    "cls": "医学微生物学",
+    "numb": "36",
+    "unit": "第二十八章 肝炎病毒",
+    "mode": "A1",
+    "test": "乙肝患者血清“小三阳”指标是",
+    "option": [
+        "A.HBsAg抗HBcIgG抗HBe·.",
+        "B.HBsAgHBeAg抗HBcIgG",
+        "C.HBsAg.HBcAg抗HBcIgG",
+        "D.HBsAgHBcAg抗HBe"
+    ],
+    "answer": "A",
+    "point": "（P263）“表28-2HBV抗原、抗体检测结果及临床意义”（A对）。",
+    "discuss": "HBsAg（+）、抗HBcIgG（+）、抗HBe（+）（A对）为急性感染趋向恢复，俗称“小三阳”。"
+}

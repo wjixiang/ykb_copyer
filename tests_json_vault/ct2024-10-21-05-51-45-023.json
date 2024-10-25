@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-05-51-45-023",
+    "cls": "医学遗传学",
+    "numb": "5",
+    "unit": "第二部分 第十四章 遗传性免疫缺陷",
+    "mode": "A1",
+    "test": "下列哪项是X-连锁无丙种球蛋白血症（X-linked agammaglobulinemia，X-LA）的致病基因",
+    "option": [
+        "A.AKT",
+        "B.BTK",
+        "C.PKC",
+        "D.RTK",
+        "E.ERK"
+    ],
+    "answer": "B",
+    "point": "（P174）“致病基因BTK（B对），其产物属Btk/Tec家族酪氨酸激酶，定位于胞质”。",
+    "discuss": "X-连锁无丙种球蛋白血症的致病基因为BTK（B对）。"
+}

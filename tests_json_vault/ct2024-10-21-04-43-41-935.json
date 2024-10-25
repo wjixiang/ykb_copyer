@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-43-41-935",
+    "cls": "医学免疫学",
+    "numb": "43",
+    "unit": "第十二章 T淋巴细胞介导的适应性免疫应答",
+    "mode": "A1",
+    "test": "记忆T细胞表达",
+    "option": [
+        "A.CD45RO",
+        "B.CD45RA",
+        "C.CR1",
+        "D.CD19",
+        "E.CD80"
+    ],
+    "answer": "A",
+    "point": "（P106）“记忆T细胞（Tm）是对特异性抗原有记忆能力的长寿T细胞…1.Tm的表型人Tm为CD45RA⁻CD45RO⁺（A对），初始T细胞则是CD45RA⁺CD45RO⁻（B错）”。",
+    "discuss": "记忆T细胞（memory　T　cell，Tm）是对特异性抗原有记忆能力的长寿T细胞。记忆T细胞表达CD45RO（A对），不表达CD45RA（B错）。"
+}

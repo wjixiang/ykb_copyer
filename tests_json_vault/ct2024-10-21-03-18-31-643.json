@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-03-18-31-643",
+    "cls": "生物化学与分子生物学",
+    "numb": "15",
+    "unit": "第十二章 DNA 的合成",
+    "mode": "A1",
+    "test": "体内合成DNA不需要",
+    "option": [
+        "A.dATP",
+        "B.dGTP",
+        "C.dCTP",
+        "D.dUTP",
+        "E.dTTP"
+    ],
+    "answer": "D",
+    "point": "（P235）“DNA复制是酶促核苷酸聚合反应，底物是dATP（A对）、dGTP（B对）、dCTP（C对）和dTTP（E对），总称dNTP”。",
+    "discuss": ""
+}

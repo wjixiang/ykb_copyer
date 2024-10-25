@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-02-51-11-608",
+    "cls": "生物化学与分子生物学",
+    "numb": "46",
+    "unit": "第二章 核酸的结构与功能",
+    "mode": "A1",
+    "test": "真核细胞mRNA帽子结构最多见的是",
+    "option": [
+        "A.m7ApppNmpNmp",
+        "B.m7GpppNmpNmp",
+        "C.m7UpppNmpNmp",
+        "D.m7CpppNmpNmp",
+        "E.m7TpppNmpNmp"
+    ],
+    "answer": "B",
+    "point": "（P44）“大部分真核细胞 mRNA 的 5'-端都有一个反式7-甲基鸟嘌呤-三磷酸核苷（m7Gppp）的起始结构”。（P44）“真核生物mRNA的5＇-帽结构以及加帽过程”（B对）。",
+    "discuss": "大部分真核细胞mRNA的5'-端都有一个反式7-甲基鸟嘌呤-三磷酸核苷的起始结构，最多见的是m7GpppNmpNmp（B对）。"
+}

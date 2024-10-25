@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-03-07-48-807",
+    "cls": "生物化学与分子生物学",
+    "numb": "111",
+    "unit": "第七章 脂质代谢",
+    "mode": "A1",
+    "test": "能激活血浆中LCAT的载脂蛋白是",
+    "option": [
+        "A.apoAⅠ",
+        "B.apoAⅡ",
+        "C.apoB",
+        "D.apoC",
+        "E.apoD"
+    ],
+    "answer": "A",
+    "point": "（P166）“表7-6人血浆载脂蛋白结构、功能及含量”（A对）。",
+    "discuss": "血浆脂蛋白中的蛋白质称为载脂蛋白，主要有apoA、B、C、D及E等五大类。能激活血浆中LCAT的载脂蛋白是apoAⅠ（A对），其可识别HDL受体。apoAⅡ（B错）的主要功能是稳定HDL结构，激活HL；apoB（C错）的主要功能是识别LDL受体，促进CM合成；apoCⅠ（D错）的主要功能是激活LCAT？（对于apoCⅠ能否激活LCAT目前还不能确定），apoCⅡ的主要功能是激活LPL，apoCⅢ的主要功能是抑制LPL、抑制肝apoE受体；apoD（E错）的主要功能是转运胆固醇酯。"
+}

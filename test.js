@@ -1,1 +1,0 @@
-text("历年真题").findOne().parent().parent().click()

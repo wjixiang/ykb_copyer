@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-05-51-03-630",
+    "cls": "医学遗传学",
+    "numb": "3",
+    "unit": "第二部分 第十二章 线粒体病",
+    "mode": "A1",
+    "test": "Leber遗传性视神经病患者最常见的mtDNA突变类型是",
+    "option": [
+        "A.G14 459A",
+        "B.G3 460A",
+        "C.T14 484C",
+        "D.G11 778A",
+        "E.G15 257A"
+    ],
+    "answer": "D",
+    "point": "（P150）“LHON分为两种类型：①单个线粒体突变导致的LHON，临床严重程度随突变位点不同有较大差异。在此类型中，约95%的病例由三种错义突变引起：MTND4*LHON 11 778A、MTND6*LHON 14 484C（C错）及MTND1*LHON 3460A（B错）。其中，MTND4*LHON 11 778A（D对）最为常见”。",
+    "discuss": "Leber遗传性视神经病约95%的病例由三种错义突变引起：MTND4*LHON 11 778A、MTND6*LHON 14 484C（C错）及MTND1*LHON 3460A（B错）。其中，G11 778A（D对）是Leber遗传性视神经病患者最常见的mtDNA突变类型。"
+}

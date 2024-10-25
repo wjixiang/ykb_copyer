@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-02-45-08-433",
+    "cls": "生理学",
+    "numb": "192",
+    "unit": "第十一章 内分泌",
+    "mode": "X",
+    "test": "作用于靶腺的腺垂体激素有",
+    "option": [
+        "A.GH",
+        "B.ACTH",
+        "C.TSH",
+        "D.LH",
+        "E.FSH"
+    ],
+    "answer": "BCDE",
+    "point": "（P366）“TSH（C对）、ACTH（B对）、FSH（E对）与LH（D对）均作用于各自的内分泌靶腺，属于促激素， 参与构成下丘脑-腺垂体-靶腺轴系统。而GH（A错）和PRL等则分别直接作用于其各自的靶细胞或靶组织”。",
+    "discuss": "促肾上腺皮质激素（adrenocorticotropic hormone，ACTH）（B对）、促甲状腺激素（thyrotropin，TSH）（C对）、黄体生成素（luteinizing hormone，LH）（D对）和卵泡刺激素（follicle stimulating hormone，FSH）（E对）均由腺垂体分泌，属于促激素，作用于各自的内分泌靶腺。生长激素（growth hormone，GH）（A错）由腺垂体分泌，直接作用于靶组织、细胞发挥作用，而不是作用于靶腺。"
+}

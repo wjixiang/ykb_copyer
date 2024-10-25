@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-33-26-950",
+    "cls": "医学免疫学",
+    "numb": "19",
+    "unit": "第八章 主要组织相容性复合体",
+    "mode": "A1",
+    "test": "编码补体成分的基因位于",
+    "option": [
+        "A.TAP基因",
+        "B.HLA-DR基因",
+        "C.HLA-E基因",
+        "D.HLA-A基因",
+        "E.HLA-Ⅲ基因区"
+    ],
+    "answer": "E",
+    "point": "（P68）“Ⅲ类基因区（E对）包括补体基因C2、B、C4及参与炎症反应的基因TNF、LTA、LTB和HSP等基因座位”。（P68）“HLAⅠ类基因区由经典Ⅰ类基因座（HLAⅠa）即A（D错）、B、C和非经典Ⅰ类基因座（HLAⅠb）即E（C错）、F、G等组成。Ⅱ类基因区由经典的DP、DQ、DR（B错）和参与抗原加工提呈的DM、TAP（A错）、PSMB等基因座组成”。",
+    "discuss": "编码补体成分的基因位于HLA-Ⅲ基因区（E对）。经典Ⅰ类基因座（HLAⅠa）即HLA-A（D错）、HLA-B、HLA-C和非经典Ⅰ类基因座（HLAⅠb）即HLA-E（C错）、HLA-F、HLA-G等组成HLAⅠ类基因区。经典的HLA-DP、HLA-DQ、HLA-DR（B错）和参与抗原加工提呈的HLA-DM、HLA-TAP（A错）、HLA-PSMB等基因座组成Ⅱ类基因区。"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-23-09-432",
+    "cls": "医学免疫学",
+    "numb": "16",
+    "unit": "第四章 抗体",
+    "mode": "A1",
+    "test": "以下哪两类抗体重链的恒定区有四个功能区",
+    "option": [
+        "A.IgG、IgM",
+        "B.IgA、IgD",
+        "C.IgM、IgE",
+        "D.IgM、IgD",
+        "E.IgA、IgE"
+    ],
+    "answer": "C",
+    "point": "（P30）“重链和轻链的C区分别称为CH和CL。不同型（κ或λ）Ab其CL的长度基本一致，但不同类AbCH的长度不一，IgG、IgA和IgD（ABDE错）重链C区有CH1、CH2和CH3三个结构域，IgM和IgE（C对）重链区有CH1、CH2、CH3和CH4四个结构域”。",
+    "discuss": "IgG、IgA和IgD（ABDE错）重链C区有CH1、CH2和CH3三个功能区，IgM和IgE（C对）重链区有CH1、CH2、CH3和CH4四个功能区。"
+}

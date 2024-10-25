@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-02-40-29-739",
+    "cls": "生理学",
+    "numb": "6",
+    "unit": "第十一章 内分泌",
+    "mode": "A1",
+    "test": "能促进ACTH释放的是",
+    "option": [
+        "A.GHRH",
+        "B.GHIH",
+        "C.TRH",
+        "D.CRH",
+        "E.GnRH"
+    ],
+    "answer": "D",
+    "point": "（P355）“表11-1 激素的主要来源与化学性质”（D对ABCE错）。",
+    "discuss": "促肾上腺皮质激素释放激素（corticotropin-releasing hormone，CRH）（D对）的效应为促进腺垂体分泌促肾上腺皮质激素（adrenocorticotropic hormone，ACTH）。生长激素释放激素（growth hormone-releasing hormone，GHRH）（A错）的效应为促进腺垂体分泌生长激素（growth hormone，GH）。生长抑素（growth hormone-inhibiting hormone，GHIH）（B错）的效应为抑制腺垂体分泌GH。促甲状腺激素释放激素（thyrotropin-releasing hormone，TRH）（C错）的效应为促进腺垂体分泌促甲状腺激素（thyrotropin，TSH）。促性腺激素释放激素（gonadotropin-releasing hormone，GnRH）（E错）的效应为促进腺垂体分泌卵泡刺激素（follicle stimulating hormone，FSH）、黄体生成素（luteinizing hormone，LH）。"
+}

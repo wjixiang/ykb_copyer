@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-52-16-230",
+    "cls": "医学免疫学",
+    "numb": "17",
+    "unit": "第十七章 免疫调节",
+    "mode": "A1",
+    "test": "对PD-1描述正确的是",
+    "option": [
+        "A.是T细胞抑制性受体之一",
+        "B.其配体是B7家族一个新成员B7-H1",
+        "C.其胞内段也带有ITIM",
+        "D.上述A和B两项",
+        "E.上述A、B和C三项"
+    ],
+    "answer": "E",
+    "point": "（P143）“具有抑制作用的共刺激分子主要包括CTLA-4和PD-1等，胞内有ITIM（C对）…PD-1的配体为PD-L1/PD-L2”（AB对，故E为本题正确答案）。",
+    "discuss": "PD-1是T细胞抑制性受体之一（A对），其胞内段也带有ITIM（C对）（immunoreceptor　tyrosine-based　inhibition　motif，免疫受体酪氨酸抑制基序），配体是PD-L1/PD-L2，即B7家族一个新成员B7-H1（B对，故E为本题正确答案）。"
+}

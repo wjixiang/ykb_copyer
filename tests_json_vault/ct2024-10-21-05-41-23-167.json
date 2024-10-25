@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-05-41-23-167",
+    "cls": "医学遗传学",
+    "numb": "12",
+    "unit": "绪论",
+    "mode": "A1",
+    "test": "RNA聚合酶Ⅱ主要合成哪一种RNA",
+    "option": [
+        "A.tRNA",
+        "B.mRNA前体",
+        "C.rRNA",
+        "D.snRNA",
+        "E.mRNA"
+    ],
+    "answer": "B",
+    "point": "（P6）“RNA聚合酶Ⅰ合成rRNA（C错）；RNA聚合酶Ⅱ合成mRNA前体（B对），RNA聚合酶Ⅲ合成snRNA（D错）及tRNA（A错）等小分子RNA”。（P6）“由RNA聚合酶Ⅱ催化形成的初始转录产物，仅仅是mRNA的前体，必须经过加工和修饰，才能形成有功能的mRNA（E错）”。",
+    "discuss": "RNA聚合酶Ⅱ主要合成mRNA前体（B对）。snRNA（D错）及tRNA（A错）等小分子RNA主要由RNA聚合酶Ⅲ合成。RNA聚合酶Ⅰ主要合成rRNA（C错）。mRNA的前体为hnRNA，必须经过加工和修饰才能形成成熟的mRNA（E错）。"
+}

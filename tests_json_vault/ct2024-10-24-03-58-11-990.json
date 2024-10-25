@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-24-03-58-11-990",
+    "cls": "诊断学",
+    "numb": "42",
+    "unit": "第三篇 第九章 神经系统检查",
+    "mode": "X",
+    "test": "下列哪些项目不属于脑膜刺激征",
+    "option": [
+        "A.Kernig征",
+        "B.Lasegue征",
+        "C.Brudzinski征",
+        "D.Babinski征",
+        "E.Gordon征"
+    ],
+    "answer": "BDE",
+    "point": "（P203）“3.直腿抬高试验（Lasegue征）（B错，为本题正确答案）…见于腰椎间盘突出症，也可见于单纯性坐骨神经痛”。（P218）“（三）病理反射…1.Babinski征（D错，为本题正确答案）…3.Gordon征（E错，为本题正确答案）”。（P218-P219）“（四）脑膜刺激征…2.Kernig征（A对）…3.Brudzinski征（C对）”。",
+    "discuss": "脑膜刺激征为脑膜受激惹的体征，包括颈强直、Kernig征（A对）、Brudzinski征（C对），阳性见于脑膜炎、蛛网膜下腔出血和颅压增高等。Lasegue征（B错，为本题正确答案）为直腿抬高试验，阳性见于腰椎间盘突出症等。Babinski征（D错，为本题正确答案）及其等位征Gordon征（E错，为本题正确答案）属于病理反射，阳性见于锥体束受损。故Lasegue征、Babinski征、Gordon征均不属于脑膜刺激征。"
+}

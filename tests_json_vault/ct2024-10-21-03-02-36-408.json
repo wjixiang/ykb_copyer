@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-03-02-36-408",
+    "cls": "生物化学与分子生物学",
+    "numb": "19",
+    "unit": "第六章 生物氧化",
+    "mode": "A1",
+    "test": "各种细胞色素在呼吸链中传递电子的顺序是",
+    "option": [
+        "A.a→a3→b→c1→c→1 /2O₂",
+        "B.b→a→a3→c1→c→1/2O₂",
+        "C.c1→c→b→a→a3→1 /2O₂",
+        "D.c→c1→aa3→b→ 1/2O₂",
+        "E.b→c1→c→aa3→1/2O₂"
+    ],
+    "answer": "E",
+    "point": "（P125）“复合体Ⅲ将电子从还原型泛醌传递至细胞色素c…即：QH2→Cyt b→Fe-S→Cytc1→Cytc”。（P126）“复合体Ⅳ将电子从细胞色素c传递给氧…即：Cyt c→CuA→Cyt a→Cyt a3-CuB →O₂（E对）”。",
+    "discuss": "复合体Ⅲ将电子从还原型泛醌传递至细胞色素c，即：QH2→Cyt b→Fe-S→Cytc1→Cytc。复合体Ⅳ将电子从细胞色素c传递给氧，即：Cyt c→CuA→Cyt a→Cyt a3-CuB→O₂，所以总结为QH2→Cyt b→Fe-S→Cytc1→Cytc→CuA→Cyt a→Cyt a3-CuB→O₂，即各种细胞色素在呼吸链中的排列顺序为b→C1→c→a→a3→1/2O₂（E对）。"
+}

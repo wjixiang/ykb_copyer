@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-21-01-19-27-417",
+    "cls": "医学细胞生物学",
+    "numb": "13",
+    "unit": "第四篇 第十六章 细胞衰老与细胞死亡",
+    "mode": "A1",
+    "test": "在caspase家族中，起细胞凋亡执行者作用的是",
+    "option": [
+        "A.caspase1,4,11",
+        "B.caspase2,8,9",
+        "C.caspase3,6,7",
+        "D.caspase3,5,10"
+    ],
+    "answer": "正确答案 C，你的答案 B",
+    "point": "（P372）“caspase-1，caspase-11（A错）主要参与白细胞介素前体的活化，并不直接参加凋亡的信号转导；而caspase-2、caspase-8、caspase-9和caspase-10参与凋亡的起始（B错）；参与凋亡执行的是caspase-3、caspase-6和caspase-7（C对），它们能降解多种底物，导致核纤层和细胞骨架的断裂崩解”。",
+    "discuss": "在caspase家族中，起细胞凋亡执行者作用的是caspase3,6,7（C对），caspase1,11（A错）主要参与白细胞介素前体的活化；caspase2,8,9（B错）参与凋亡的起始。"
+}

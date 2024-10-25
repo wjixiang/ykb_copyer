@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-42-22-921",
+    "cls": "医学免疫学",
+    "numb": "37",
+    "unit": "第十一章 抗原提呈细胞的加工及提呈",
+    "mode": "X",
+    "test": "IDC",
+    "option": [
+        "A.即并指状DC",
+        "B.位于淋巴组织T细胞区",
+        "C.由LC移行至淋巴结而来",
+        "D.高表达MHCⅡ类分子",
+        "E.有FcR及补体受体"
+    ],
+    "answer": "ABCD",
+    "point": "（P93）“外周免疫器官T细胞区（B对）的并指状DC（ICD）（A对）即属成熟DC”。（P120）“未成熟DC摄取病原体等抗原性异物后开始迁移，进入外周免疫器官后发育成熟为并指状DC（C对）…同时高表达MHCⅡ类分子（D对）和共刺激分子”。（P93）“表11-1未成熟DC与成熟DC特点的比较”（E错）。",
+    "discuss": "IDC（interdigitatingDC）即并指状DC（dendritic　cell）（A对）即指成熟的DC，由属于未成熟DC的LC（Langerhans　cell，朗格汉斯细胞）移行至外周淋巴器官（C对）而来，由于成熟DC最终的功能是提呈抗原给T细胞，故位于淋巴组织的T细胞区（B对）。其高表达MHC（major　histocompatibility　complex，主要组织相容复合物）Ⅱ类分子（D对）。成熟DC不一定表达FcR（Fc受体）（E错）。"
+}

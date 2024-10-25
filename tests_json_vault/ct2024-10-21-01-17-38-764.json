@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-21-01-17-38-764",
+    "cls": "医学细胞生物学",
+    "numb": "33",
+    "unit": "第四篇 第十三章 细胞分裂与细胞周期",
+    "mode": "A1",
+    "test": "MPF的分子组成是",
+    "option": [
+        "A.Cdk2和cyclinB",
+        "B.Cdk1和cyclinB",
+        "C.Cdk4和cyclinD",
+        "D.Cdk2和cyclinD"
+    ],
+    "answer": "正确答案 B，你的答案 B",
+    "point": "（P314）“柱层析结果表明，MPF是由32000和45000两种蛋白质亚基组成的异二聚体，前者为细胞周期蛋白依赖激酶Cdk1，后者即为cyclinB（B对）”。",
+    "discuss": "MPF是由Cdk1和cyclinB（B对）两种蛋白质亚基组成的异二聚体，在G₂晚期形成，其主要作用是调控细胞周期中G₂期向M期转换。"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-24-03-58-20-416",
+    "cls": "诊断学",
+    "numb": "46",
+    "unit": "第三篇 第九章 神经系统检查",
+    "mode": "X",
+    "test": "下列哪些检查为脑膜刺激征",
+    "option": [
+        "A.Oppenheim征",
+        "B.Hoffmann征",
+        "C.Kernig征",
+        "D.Brudzinski征",
+        "E.颈项强直"
+    ],
+    "answer": "CDE",
+    "point": "（P218-P219）“（四）脑膜刺激征…1.颈强直（E对）…2.Kernig征（C对）…3.Brudzinski征（D对）”。（P218）“病理反射指锥体束病损时，大脑失去了对脑干和脊髓的抑制作用而出现的异常反射…2.Oppenheim征（A错）…4.Hoffmann征（B错）”。",
+    "discuss": "脑膜刺激征为脑膜受激惹的体征，包括颈项强直（E对）、Kernig征（C对）、Brudzinski征（D对）。Oppenheim征（A错）、Hoffmann征（B错）均属于锥体束征，提示锥体束受损。"
+}

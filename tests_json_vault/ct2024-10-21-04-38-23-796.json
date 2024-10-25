@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-38-23-796",
+    "cls": "医学免疫学",
+    "numb": "13",
+    "unit": "第十章 T淋巴细胞",
+    "mode": "A1",
+    "test": "CTL细胞第一活化信号由（）转导",
+    "option": [
+        "A.CD2",
+        "B.CD3",
+        "C.CD4",
+        "D.CD8",
+        "E.CD40L"
+    ],
+    "answer": "B",
+    "point": "（P85）“TCR识别抗原所产生的活化信号由CD3（B对）转导至T细胞内”。（P101）“APC将pMHC提呈给T细胞，TCR特异性识别结合在MHC分子槽中的抗原肽，导致CD3与共受体（CD4或CD8）（CD错）的胞浆段相互作用…使得T细胞初步活化。这是T细胞活化的第一信号…T细胞与APC细胞表面多对共刺激分子（E错），PD-1和PD-L1等）相互作用产生T细胞活化所需的第二信号（共刺激信号），导致T细胞完全活化”。",
+    "discuss": "CTL（Cytotoxic　T　lymphocyte，细胞毒性T淋巴细胞）细胞属于效应T细胞，由初始T细胞活化形成，第一活化信号由CD3（B对）转导。在T细胞与APC的特异性结合后，CD4（C错）或CD8（D错）可分别识别和结合APC（Antigen-presenting　cells，抗原提呈细胞）表面的MHCⅡ类分子或MHCⅠ类分子，增强TCR（T　cell　receptor，T细胞（抗原）受体）与pMHC结合的亲和力和TCR信号的转导。CD40L（E错）是共刺激分子，与T细胞相互作用产生共刺激信号，诱导T细胞完全活化。"
+}

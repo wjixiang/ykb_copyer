@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-03-40-27-432",
+    "cls": "生物化学与分子生物学",
+    "numb": "8",
+    "unit": "第二十五章 基因结构功能分析和疾病相关基因鉴定克隆",
+    "mode": "A1",
+    "test": "关于抑制特异基因表达的基因沉默技术，下列哪项是普遍认为最有前景且最新的技术",
+    "option": [
+        "A.RNA干扰技术",
+        "B.反义技术",
+        "C.锌指核酸酶（zinc-fingernuclease， ZFN）技术",
+        "D.转录激活样效应因子核酸酶（transcription activator-like effector nuclease， TALEN）技术",
+        "E.成簇规律间隔短回文重复（clustered regulatory interspaced short palindromic repeat， CRISPR）技术"
+    ],
+    "answer": "E",
+    "point": "（P466）“在细胞水平沉默研究基因的表达，进而观察基因沉默后细胞的生物学行为改变，是基因功能研究的有力工具。可以利用RNA干扰技术（A错）、反义技术（B错）以及基因组编辑技术等来实现对特定基因表达的抑制。其中利用成簇规律间隔短回文重复（CRISPR）（E对）技术进行基因敲除，近年来发展迅猛并广泛应用于细胞、动物水平特定基因沉默”。（P470）“在过去一段时间中，以锌指核酸酶（ZFN）（C错）和转录激活样效应因子核酸酶（TALEN）（D错）技术为代表的序列特异性核酸酶技术，以其能够高效率地进行定点基因组编辑，在基础研究、基因治疗和遗传改良等方面展示出了巨大的潜力。然而，由于ZFN和TALEN技术本身所存在的多种技术瓶颈，这两种技术并不能实现快速发展并满足各种科研和临床需求”。",
+    "discuss": "抑制特异基因表达的基因沉默技术中，普遍认为最有前景且最新的技术是成簇规律间隔短回文重复（clustered regulatory interspaced short palindromic repeat，CRISPR）（E对），RNA干扰技术（A错）、反义技术（B错）可以实现对特定基因表达的抑制，但不是最有前景且最新的技术。锌指核酸酶（zinc-fingernuclease，ZFN）（C错）和转录激活样效应因子核酸酶（transcription activator-like effector nuclease，TALEN）技术（D错）为序列特异性核酸酶技术，但存在的多种技术瓶颈，不是最有前景且最新的技术。"
+}

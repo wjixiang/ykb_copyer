@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-06-18-35-274",
+    "cls": "医学统计学",
+    "numb": "5",
+    "unit": "第八章 方差分析",
+    "mode": "A1",
+    "test": "2×2析因设计资料的方差分析中，方差分解正确的是",
+    "option": [
+        "A.SS总=SSB+SS误差",
+        "B.MS总=MSB+MS误差",
+        "C.SS总=SSB+SSA+SS误差",
+        "D.SS总=SSB+SSA",
+        "E.SS总=SSB+SSA+SSAB+SS误差"
+    ],
+    "answer": "E",
+    "point": "（P85）“方差分析按照方差分析基本思想，析因设计中，观测值总变异分解为以下四个部分：SS总=SSB+SSA+SSAB+SS误差（E对）”。",
+    "discuss": "方差分析中，方差分解的是SS总=SSB+SSA+SSAB+SS误差（E对）。"
+}

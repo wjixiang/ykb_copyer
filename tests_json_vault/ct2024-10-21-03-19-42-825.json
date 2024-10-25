@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-21-03-19-42-825",
+    "cls": "生物化学与分子生物学",
+    "numb": "59",
+    "unit": "第十二章 DNA 的合成",
+    "mode": "A1",
+    "test": "逆转录酶是一类",
+    "option": [
+        "A.DNA指导的DNA聚合酶",
+        "B.DNA指导的RNA聚合酶",
+        "C.RNA指导的DNA聚合酶",
+        "D.RNA指导的RNA聚合酶"
+    ],
+    "answer": "C",
+    "point": "（P247）“1970年，H.Temin和D.Baltimore分别从RNA病毒中发现能催化以RNA为模板合成双链DNA的酶，称为逆转录酶，全称是依赖RNA的DNA聚合酶（C对）”。（P235）“DNA聚合酶全称是依赖DNA的DNA聚合酶（DNA pol）（A错）”。 （P262）“RNA的生物合成属于酶促反应，反应体系中需要DNA模板、NTP（包括ATP、UTP、CTP和GTP）、DNA依赖的RNA聚合酶（简称RNA pol）（B错）、其他蛋白质因子及Mg²⁺等”。（P262）“另一种是RNA依赖的RNA合成，也称RNA复制，由RNA依赖的RNA聚合酶（D错）催化，常见于病毒，是逆转录病毒以外的RNA病毒在宿主细胞以病毒的单链RNA为模板合成RNA的方式”。",
+    "discuss": "RNA指导的DNA聚合酶（C对）为逆转录酶，参与逆转录。DNA指导的DNA聚合酶（A错）为复制酶，参与DNA复制。DNA指导的RNA聚合酶（B错）参与转录过程，RNA指导的RNA聚合酶（D错）参与RNA的复制。"
+}

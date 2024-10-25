@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-05-02-22-610",
+    "cls": "医学免疫学",
+    "numb": "44",
+    "unit": "第二十章 免疫缺陷病",
+    "mode": "A1",
+    "test": "下列哪项指标可以评价AIDS患者的细胞免疫功能",
+    "option": [
+        "A.CD2⁺/CD3⁺细胞比值",
+        "B.CD3⁺/CD4⁺细胞比值",
+        "C.CD3⁺/CD8⁺细胞比值",
+        "D.CD4⁺/CD8⁺细胞比值",
+        "E.CD2⁺/CD4⁺细胞比值"
+    ],
+    "answer": "D",
+    "point": "（P172）“3.CD4⁺和CD8⁺T细胞计数（D对）CD4⁺T细胞和CD8⁺T细胞的数量可评价HIV感染者免疫状况”。",
+    "discuss": "CD4⁺T细胞和CD8⁺T细胞的数量可评价HIV（human　immunodeficiency　virus，人类免疫缺陷病毒）感染者免疫状况，故常用CD4⁺/CD8⁺细胞比值（D对）来评价AIDS（acquiredimmunodeficiencysyndrome，获得性免疫缺陷综合征）患者的细胞免疫功能。"
+}

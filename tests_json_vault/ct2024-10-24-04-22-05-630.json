@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-24-04-22-05-630",
+    "cls": "诊断学",
+    "numb": "53",
+    "unit": "第四篇 第九章 临床常见病原体检测",
+    "mode": "X",
+    "test": "关于抗--HBc正确的是",
+    "option": [
+        "A.抗-HBc的检出率高于HBsAg，更敏感",
+        "B.抗-HBc总抗体主要反映的是抗-HBc-IgG",
+        "C.在HBsAg阴性患者中仍有6%的阳性率",
+        "D.可作为HBsAg阴性的HBV感染的敏感指标",
+        "E.抗-HBc-IgG对机体具有一定的保护作用"
+    ],
+    "answer": "ABCD",
+    "point": "（P457）“抗-HBc是HBcAg的抗体，可分为IgM、IgG和IgA三型。目前常检测抗-HBc总抗体，也可分别检测抗-HBcIgM、IgG或IgA。抗-HBc总抗体主要反映的是抗-HBcIgG（B对）。抗-HBc比HBsAg更敏感（A对），可作为HBsAg阴性的HBV感染的敏感指标（D对）。在HBsAg携带者中多为阳性，在HBsAg阴性者中仍有6%左右的阳性率（C对）…抗-HBcIgG对机体无保护作用（E错），其阳性可持续数十年甚至终身”。",
+    "discuss": "抗-HBc是HBcAg的抗体，可分为IgM、IgG和IgA三型。抗-HBc总抗体主要反映的是抗-HBcIgG（B对）。抗-HBc的检出率高于HBsAg，更敏感（A对），在HBsAg阴性者中仍有6%左右的阳性率（C对），故可作为HBsAg阴性的HBV感染的敏感指标（D对）。抗-HBcIgG对机体无保护作用（E错），其阳性可持续数十年甚至终身。"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-21-04-14-02-032",
+    "cls": "医学微生物学",
+    "numb": "37",
+    "unit": "第二十八章 肝炎病毒",
+    "mode": "A1",
+    "test": "乙肝患者血清“大三阳”指标是",
+    "option": [
+        "A.HBsAgHBeAg抗HBe",
+        "B.HBsAgHBcAg抗HBe",
+        "C.HBsAgHBeAg抗HBs",
+        "D.HBsAgHBeAg抗HBcIgM"
+    ],
+    "answer": "D",
+    "point": "（P263）“表28-2HBV抗原、抗体检测结果及临床意义”（D对）。",
+    "discuss": "HBsAg（+）、HBeAg（+）、抗HBcIgM（+）（D对）为急性或慢性乙型肝炎，传染性强，俗称“大三阳”。"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-42-35-618",
+    "cls": "医学免疫学",
+    "numb": "4",
+    "unit": "第十二章 T淋巴细胞介导的适应性免疫应答",
+    "mode": "A1",
+    "test": "T淋巴细胞的抗原识别受体是",
+    "option": [
+        "A.BCR",
+        "B.CDR",
+        "C.TCR",
+        "D.FcR",
+        "E.CKR"
+    ],
+    "answer": "C",
+    "point": "（P100）“初始T细胞通过其TCR（C对）与APC表面的抗原肽-MHC分子复合物（pMHC）特异性结合，在共刺激信号以及细胞因子共同作用下活化、增殖，进而分化为效应T细胞，完成对抗原的清除和对免疫应答的调节”。（P34）“B细胞膜表面的IgM和IgD等Ig构成B细胞的抗原识别受体（BCR）（A错），能特异性识别抗原分子”。（P30）“该区域形成与抗原表位互补的空间构象，又被称为互补决定区（CDR）（B错）”。",
+    "discuss": "TCR（T　cell　receptor，T细胞（抗原）受体）为所有T细胞表面的特征性标志，以非共价键与CD3结合，形成TCR-CD3复合物。TCR的作用是识别抗原。T淋巴细胞的抗原识别受体是TCR（C对）。B细胞抗原受体（B-cell　receptor，BCR）（A错）是一种位于B细胞表面的负责特异性识别及结合抗原的分子。免疫球蛋白V区中的高变区（Hyper-Variable　Region），又称互补决定区（complementarity　determining　region，CDR）（B错）。"
+}

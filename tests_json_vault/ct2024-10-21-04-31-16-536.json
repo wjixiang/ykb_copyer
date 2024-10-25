@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-31-16-536",
+    "cls": "医学免疫学",
+    "numb": "5",
+    "unit": "第七章 白细胞分化抗原和黏附因子",
+    "mode": "A1",
+    "test": "CD的英文全名是",
+    "option": [
+        "A.celldifferentiation",
+        "B.celldivision",
+        "C.cluster　of　differentiation",
+        "D.clusterofdetection",
+        "E.clusterofdifference"
+    ],
+    "answer": "C",
+    "point": "（P59）“国际专门命名机构以单克隆抗体鉴定为主要方法，将来自不同实验室的单克隆抗体所识别的同一种分化抗原归为同一个分化群（cluster　of　differentiation，CD）（C对）”。",
+    "discuss": ""
+}

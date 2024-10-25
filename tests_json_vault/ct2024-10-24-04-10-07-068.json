@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-24-04-10-07-068",
+    "cls": "诊断学",
+    "numb": "18",
+    "unit": "第四篇 第五章 常用肾脏功能实验室检测",
+    "mode": "A1",
+    "test": "肾衰竭期内生肌酐清除率（Ccr）",
+    "option": [
+        "A.Ccr＜10ml/min",
+        "B.Ccr80～120mL/min",
+        "C.Ccr51～80mL/min",
+        "D.Ccr50～20mL/min",
+        "E.Ccr19～10mL/min。"
+    ],
+    "answer": "E",
+    "point": "（P343）“第1期（肾衰竭代偿期）Ccr为80～51ml/min；第2期（肾衰竭失代偿期）Ccr为50～20ml/min（D错）；第3期（肾衰竭期）Ccr为19～10ml/min（E对）；第4期（尿毒症期或终末期肾衰竭）Ccr＜10ml/min”。（P343）“成人80～120ml/min（B错）”。",
+    "discuss": "肾衰竭期时，Ccr19～10mL/min（E对）。Ccr80～120mL/min（B错）是正常成人的参考值。Ccr为51～80mL/min（C错）是肾衰竭代偿期时的参考值。Ccr50～20mL/min（D错）是肾衰竭失代偿期时的参考值。Ccr＜10ml/min（A错）是肾衰竭尿毒症期的参考值。"
+}

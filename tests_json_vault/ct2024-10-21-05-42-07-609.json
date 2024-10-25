@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-05-42-07-609",
+    "cls": "医学遗传学",
+    "numb": "2",
+    "unit": "第一部分 第一章 基于疾病的遗传学数据分析",
+    "mode": "A1",
+    "test": "在完成了疾病的全外显子组测序（whole exome sequencing,WES）实验之后,通常应该首先査询哪一家网站进行数据比对,以便剔除基因组DNA的多态性信息",
+    "option": [
+        "A.ExAC",
+        "B.OMIM",
+        "C.MitoMap",
+        "D.Ensembl",
+        "E.GeneCards"
+    ],
+    "answer": "A",
+    "point": "",
+    "discuss": "ExAC：已收录超过6万例个体外显子组测序数据结果的数据库。故在完成了疾病的全外显子组测序（whole exome sequencing,WES）实验之后，通常应该首先査询ExAC（A对）进行数据比对，以便剔除基因组DNA的多态性信息。"
+}

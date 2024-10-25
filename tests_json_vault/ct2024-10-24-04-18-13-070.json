@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-24-04-18-13-070",
+    "cls": "诊断学",
+    "numb": "123",
+    "unit": "第四篇 第八章 临床常用免疫学检测",
+    "mode": "A1",
+    "test": "在HLA配型中，匹配最为重要的是哪个点",
+    "option": [
+        "A.HLA-A",
+        "B.HLA-B",
+        "C.HLA-C",
+        "D.HLA-DR",
+        "E.HLA-DQ"
+    ],
+    "answer": "D",
+    "point": "",
+    "discuss": ""
+}

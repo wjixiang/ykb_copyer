@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-42-59-465",
+    "cls": "医学免疫学",
+    "numb": "18",
+    "unit": "第十二章 T淋巴细胞介导的适应性免疫应答",
+    "mode": "A1",
+    "test": "巨噬细胞主要将外源性细胞内寄居病原体抗原肽提呈给",
+    "option": [
+        "A.活化Th0细胞",
+        "B.初始Th1细胞",
+        "C.活化Th1细胞",
+        "D.初始CTL细胞",
+        "E.活化Th2细胞"
+    ],
+    "answer": "C",
+    "point": "（P103）“Th0（A错）受不同细胞因子的调控向不同方向分化，介导不同的免疫应答类型。IL-12和IFN-γ等可诱导Th0向Th1分化。Th1（C对）主要介导细胞免疫应答。IL-4等可诱导Th0向Th2分化。Th2（E错）主要介导体液免疫应答。TGF-β和IL-2可诱导Th0向Treg分化”。（P101）“T细胞表面CD4和CD8是TCR的共受体，在T细胞与APC的特异性结合后，CD4或CD8可分别识别和结合APC（或靶细胞）表面的MHCⅡ类分子或MHCⅠ类分子，增强TCR与pMHC结合的亲和力和TCR信号的转导”（BD错）。",
+    "discuss": "巨噬细胞将外源性抗原提呈给MHCⅡ（major　histocompatibility　complexⅡ，主要组织相容复合物Ⅱ）形成复合物，供CD4⁺Th细胞、即活化的Th1细胞（C对）识别，引发适应性免疫应答。Th1细胞对机体的免疫保护主要为清除胞内感染病原微生物，而Th2（E错）细胞对机体的主要作用为清除蠕虫等，辅助体液免疫。抗原提呈是T细胞与APC（antigen　presenting　cell，抗原提呈细胞）的特异性结合。此时具有接受抗原肽的T细胞为活化T细胞（BD错）。初始Th0（helper　T　cell0）活化后变成Th1（helper　T　cell1）、Th2（helper　T　cell2）、或Treg（regulatoryTcell，调节性T细胞），即不存在活化的Th0（A错）这种说法。"
+}

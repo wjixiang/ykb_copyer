@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-03-07-46-921",
+    "cls": "生物化学与分子生物学",
+    "numb": "109",
+    "unit": "第七章 脂质代谢",
+    "mode": "A1",
+    "test": "正常血浆脂蛋白按密度低→高顺序的排列为",
+    "option": [
+        "A.CM→VLDL→IDL→LDL",
+        "B.CM→VLDL→LDL→HDL",
+        "C.VLDL→CM→LDL→HDL",
+        "D.VLDL→LDL→IDL→HDL",
+        "E.VLDL→LDL→HDL→CM"
+    ],
+    "answer": "B",
+    "point": "（P165）“乳糜微粒含脂最多，密度最小，易上浮；其余脂蛋白按密度由小到大依次为极低密度脂蛋白（VLDL）、低密度脂蛋白（LDL）和高密度脂蛋白（HDL）（B对）；分别相当于电泳分类中的CM、前β-脂蛋白、β-脂蛋白及α-脂蛋白”。",
+    "discuss": ""
+}

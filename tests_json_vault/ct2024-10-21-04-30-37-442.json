@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-30-37-442",
+    "cls": "医学免疫学",
+    "numb": "64",
+    "unit": "第六章 细胞因子",
+    "mode": "X",
+    "test": "Ⅰ型细胞因子受体家族包括",
+    "option": [
+        "A.IL-2R.IL-3R",
+        "B.IL-4R.IL-5R",
+        "C.IL-7R.IL-8R",
+        "D.IL-9R.IL-10R",
+        "E.IL-lR.M-CSFR"
+    ],
+    "answer": "AB",
+    "point": "（P52）“1.Ⅰ型细胞因子受体家族也称血细胞生成素受体家族，此类受体的胞膜外区有保守的半胱氨酸和Trp-Ser-X-Trp-Ser（WSXWS）基序，包括IL-2、IL-3（A对）、IL-4、IL-5（B对）、IL-6、IL-7、IL-9、IL-11、IL-12、IL-13、IL-15、IL-21、GM-CSF、GCSF等细胞因子的受体，通过JAK-STAT通路转导信号”。",
+    "discuss": "Ⅰ型细胞因子受体家族，也称血细胞生成素受体家族，包括IL-2R、IL-3R（A对）、IL-4R、IL-5R（B对）、IL-7R、IL-9R等细胞因子受体。"
+}

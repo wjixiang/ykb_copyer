@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-05-48-43-198",
+    "cls": "医学遗传学",
+    "numb": "7",
+    "unit": "第一部分 第八章 人类染色体",
+    "mode": "A1",
+    "test": "核小体的化学组成成分是",
+    "option": [
+        "A.DNA和组蛋白H1",
+        "B.DNA和组蛋白H1、H2A、H2B、H3、H4",
+        "C.DNA和组蛋白H3、H4",
+        "D.DNA和组蛋白H2A、H2B、H3、H4",
+        "E.DNA和组蛋白H1、H2A、H2B、H3"
+    ],
+    "answer": "D",
+    "point": "（P99）“核小体则由4种组蛋白（H2A、H2B、H3、H4各两个分子）组成的八聚体核心表面围以长约146bp的DNA双螺旋所构成（D对）”。",
+    "discuss": "核小体的化学组成成分是DNA（deoxyribonucleic acid，脱氧核糖核酸）和组蛋白H2A、H2B、H3、H4（D对）。"
+}

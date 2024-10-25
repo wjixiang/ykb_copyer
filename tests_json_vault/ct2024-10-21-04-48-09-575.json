@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-48-09-575",
+    "cls": "医学免疫学",
+    "numb": "78",
+    "unit": "第十四章 固有免疫系统及其介导的应答",
+    "mode": "X",
+    "test": "有吞噬作用的APC是",
+    "option": [
+        "A.单核/巨噬细胞",
+        "B.FDC",
+        "C.IDC",
+        "D.LC",
+        "E.B细胞"
+    ],
+    "answer": "AD",
+    "point": "（三版八年制医学免疫学P180）“表10-1 专职性APC”（AD对BCE错）。",
+    "discuss": "有吞噬作用的APC（antigen　presenting　cell，抗原提呈细胞）有单核/巨噬细胞（A对）、LC（Langerhans　cell，朗格汉斯细胞）（D对）。IDC（Immaturedendritic cell，并指树突状细胞）（C错）、FDC（follicular DC，滤泡树突状细胞）（B错）、B细胞（E错）都没有吞噬功能。"
+}

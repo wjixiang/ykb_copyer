@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-21-03-40-46-408",
+    "cls": "生物化学与分子生物学",
+    "numb": "20",
+    "unit": "第二十五章 基因结构功能分析和疾病相关基因鉴定克隆",
+    "mode": "X",
+    "test": "常用于研究基因表达的分子生物学技术有",
+    "option": [
+        "A.Northern blotting",
+        "B.Southern blotting",
+        "C.Western blotting",
+        "D.RT-PCR"
+    ],
+    "answer": "ACD",
+    "point": "（P462）“用RNA印迹分析RNA表达”（A对）。（P463）“用逆转录PCR进行RNA的半定量分析”（D对）。（P463）“用蛋白质印迹技术检测蛋白质/多肽”（C对）。",
+    "discuss": "基因表达产物包括RNA和蛋白质/多肽，因此检测基因表达水平就是检测RNA和蛋白质水平（P462）。Northern blotting（P441）（A对）即RNA印迹，用于检测RNA的表达水平。Western blotting（P441）（C对）即蛋白质印迹，用于检测蛋白质的表达水平。RT-PCR（P443）（D对）即逆转录PCR，可用于获取目的基因或检测RNA表达水平。Southern blotting（P441）（B错）即DNA印迹，用于检测DNA的表达水平。"
+}

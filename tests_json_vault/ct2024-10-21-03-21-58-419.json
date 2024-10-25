@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-03-21-58-419",
+    "cls": "生物化学与分子生物学",
+    "numb": "15",
+    "unit": "第十四章 RNA 的合成",
+    "mode": "A1",
+    "test": "以5'…ACTAGTCAG…3'（DNA链）为模板合成相应mRNA链的核苷酸序列为",
+    "option": [
+        "A.5'…TGATCAGTC…3'",
+        "B.5'…UGAUCAGUC…3'",
+        "C.5'…CUGACUAGU…3'",
+        "D.5'…CTGACTAGT…3'",
+        "E.5'…CAGCUGACU…3'"
+    ],
+    "answer": "C",
+    "point": "（八版生物化学P312）“表16-1 复制和转录的区别”。（P35）“基于DNA链和RNA链的方向性，人们把RNA的核苷酸和DNA的脱氧核苷酸从5’-端至3’-端的排列顺序定义为核酸的一级结构…核酸一级结构的书写方式如图2-7所示。”",
+    "discuss": "生物体以DNA为模板合成RNA的过程称为转录，转录的碱基配对方式为A-U、T-A、C-G，因此以5’…ACTAGTCAG…3’为模板合成相应mRNA链的核苷酸序列为3’…UGAUCAGUC…5’，即5’…CUGACUAGU…3’（无论是DNA链还是RNA链，书写方式均应为5’→3’方向）（C对）。"
+}

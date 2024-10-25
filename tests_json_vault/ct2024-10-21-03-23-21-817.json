@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-21-03-23-21-817",
+    "cls": "生物化学与分子生物学",
+    "numb": "68",
+    "unit": "第十四章 RNA 的合成",
+    "mode": "X",
+    "test": "下列核酸中，具有降解mRNA功能的包括",
+    "option": [
+        "A.hnRNA",
+        "B.siRNA",
+        "C.miRNA",
+        "D.snoRNA"
+    ],
+    "answer": "BC",
+    "point": "（P283）“其他如微RNA（microRNA）和RNA干扰（RNAi）诱导的mRNA降解途径，是细胞内基因表达调控的方式之一”（B对）。（P50）“这些siRNA可以与AGO蛋白结合，并诱导这些mRNA的降解”（C对）。",
+    "discuss": "siRNA（小干扰RNA）和miRNA（微RNA）均属于真核生物的非编码小分子RNA，二者能通过相似的机制降解mRNA：siRNA和miRNA均由一种名为Dicer的特异性核酸内切酶切割产生，又均与一种名为RISC（RNA诱导的沉默复合体）的复合体结合，通过碱基互补配对的方式识别靶mRNA，最终利用RISC降解靶mRNA（BC对），阻断翻译过程。miRNA和siRNA参与降解mRNA的详细过程见二版八年制生物化学P432图21-13。hnRNA（不均一核RNA）是mRNA的未成熟前体（P274），snoRNA（核仁小RNA）主要参与rRNA的加工和修饰（P49），二者均不能降解mRNA（D错）。"
+}

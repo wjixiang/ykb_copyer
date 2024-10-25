@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-01-01-08-07-444",
+    "cls": "系统解剖学",
+    "numb": "245",
+    "unit": "内脏学 第五章 消化系统",
+    "mode": "A1",
+    "test": "具有结肠袋和肠脂垂的是",
+    "option": [
+        "A.ileum",
+        "B.caecum",
+        "C.jejunum",
+        "D.rectum",
+        "E.vermiform appendix"
+    ],
+    "answer": "B",
+    "point": "（P110）“除直肠、肛管和阑尾外，结肠和盲肠具有三种特征性结构，即结肠带、结肠袋和肠脂垂”。（P111）“盲肠caecum是大肠的起始部”（B对）。（P112）“结肠colon是介于盲肠与直肠之间的一段大肠”（ACDE错）。",
+    "discuss": "具有结肠袋和肠脂垂的为盲肠和结肠，盲肠英文为caecum（B对），结肠英文为colon（ACDE错）。"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-01-15-06-625",
+    "cls": "医学细胞生物学",
+    "numb": "31",
+    "unit": "第二篇 第八章 细胞核",
+    "mode": "A1",
+    "test": "真核细胞中rDNA编码的rRNA包括",
+    "option": [
+        "A.5SrRNA、5.8SrRNA、18SrRNA",
+        "B.5SrRNA、5.8SrRNA、28SrRNA",
+        "C.18SrRNA、5SrRNA、28SrRNA",
+        "D.18SrRNA、5.8SrRNA、28SrRNA",
+        "E.以上都不是"
+    ],
+    "answer": "D",
+    "point": "（P195）“真核生物中的18S、5.8S和28S rRNA（D对）基因组成一个转录单位，在核仁组织区呈串状重复排列。已知在所有的细胞中均含有多拷贝编码rRNA的基因”。",
+    "discuss": "真核细胞中rDNA编码的rRNA包括18SrRNA、5.8SrRNA、28SrRNA（D对）。"
+}

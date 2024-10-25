@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-05-04-22-977",
+    "cls": "医学免疫学",
+    "numb": "25",
+    "unit": "第二十二章 肿瘤免疫",
+    "mode": "A1",
+    "test": "介导ADCC抗肿瘤免疫的抗体是",
+    "option": [
+        "A.IgA",
+        "B.IgM",
+        "C.IgD",
+        "D.IgG",
+        "E.IgE"
+    ],
+    "answer": "D",
+    "point": "（P191）“IgG（D对）可介导巨噬细胞、NK细胞发挥ADCC效应”。",
+    "discuss": "介导ADCC抗肿瘤免疫的抗体是IgG（D对）。IgA（A错）是T细胞抗体。IgM（B错）是髓样细胞抗体。IgG（D错）、IgE（E错）是髓样细胞、血小板、内皮细胞的免疫抗体。"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-05-41-13-728",
+    "cls": "医学遗传学",
+    "numb": "5",
+    "unit": "绪论",
+    "mode": "A1",
+    "test": "建立DNA双螺旋结构模型的是",
+    "option": [
+        "A.Mendel",
+        "B.Morgan",
+        "C.Hooke",
+        "D.Watson and Crick",
+        "E.Schleiden and Schwann"
+    ],
+    "answer": "D",
+    "point": "（P2-P3）“表绪-1医学遗传学大事记”（D对AE错）。",
+    "discuss": "建立DNA双螺旋结构模型的是James Watson和Francis Crick（D对）。Mendel（A错）揭示生物性状的分离定律和自由组合定律的两个遗传学基本规律。Morgan（B错）于1933年发现染色体在遗传中的作用，赢得了诺贝尔生理学或医学奖。Hooke（C错）是显微镜的发明者。Schleiden and Schwann（E错）则提出细胞学说。"
+}

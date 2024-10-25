@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-05-42-09-237",
+    "cls": "医学遗传学",
+    "numb": "4",
+    "unit": "第一部分 第一章 基于疾病的遗传学数据分析",
+    "mode": "A1",
+    "test": "请査询相关医学遗传学网站，看看FOXC1基因编码的蛋白最有可能的功能是下列哪一项",
+    "option": [
+        "A.分泌激素（secreted hormone）",
+        "B.离子通道（ion channel）",
+        "C.酪氨酸激酶（tyrosine kinase）",
+        "D.转录因子（transcription factor）",
+        "E.核膜的组分（nuclear membrane component）"
+    ],
+    "answer": "D",
+    "point": "",
+    "discuss": ""
+}

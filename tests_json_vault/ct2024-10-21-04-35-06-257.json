@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-35-06-257",
+    "cls": "医学免疫学",
+    "numb": "76",
+    "unit": "第八章 主要组织相容性复合体",
+    "mode": "X",
+    "test": "编码HLA-Ⅱ类分子",
+    "option": [
+        "A.HLA-A、HLA-B、HLA-C基因",
+        "B.HLA-E、HLA-F、HLA-G基因",
+        "C.C2、C4、Bf基因",
+        "D.HLA-DP、HLA-DQ、HLA-DR基因",
+        "E.HLA-DM、HLA-DO基因"
+    ],
+    "answer": "DE",
+    "point": "（P68）“Ⅱ类基因区由经典的DP、DQ、DR（D对）和参与抗原加工提呈的DM、TAP、PSMB等基因座组成”。（P68）“HLAⅠ类基因区由经典Ⅰ类基因座（HLAⅠa）即A、B、C（A错）和非经典Ⅰ类基因座（HLAⅠb）即E、FG（B错）等组成”。（P68）“此类基因属经典HLAⅢ类基因，所表达的产物为C4、Bf和C2（C错）等补体组分”。（P69）“图8-1位于人第6号染色体短臂的HLA基因座分布示意图”（E对）。",
+    "discuss": "Ⅱ类基因区由经典的DP、DQ、DR（D对）和参与抗原加工提呈的DM、TAP、PSMB等基因座组成，其中也包括HLA-DM、HLA-DO基因（E对）。Ⅰ类基因区由经典Ⅰ类基因座（HLAⅠa）即A、B、C和非经典Ⅰ类基因座（HLAⅠb）即E、F、G等组成，HLA-Ⅰ类分子由HLA-A、HLA-B、HLA-C基因（A错）和HLA-E、HLA-F、HLA-G（B错）基因编码。C2、C4、Bf（C错）基因编码HLAⅢ类基因。"
+}

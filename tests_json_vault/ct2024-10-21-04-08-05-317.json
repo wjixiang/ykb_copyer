@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-08-05-317",
+    "cls": "医学微生物学",
+    "numb": "31",
+    "unit": "第二十二章 病毒的基本性状",
+    "mode": "A1",
+    "test": "逆转录病毒复制的方式是",
+    "option": [
+        "A.RNA→RNA：DNA杂交体→dsDNA→整合于细胞DNA→转录mRNA",
+        "B.RNA→RNA：DNA杂交体→dsDNA→转录mRNA",
+        "C.RNA→转录mRNA",
+        "D.RNA→RNA：DNA杂交体→转录mRNA",
+        "E.RNA→RNA：RNA→转录mRNA"
+    ],
+    "answer": "A",
+    "point": "（P205）“逆转录病毒：病毒在逆转录酶的作用下，以病毒RNA为模板，合成互补的负链DNA后，形成RNA：DNA中间体。中间体中的RNA由RNA酶H水解，在DNA聚合酶作用下，由DNA复制成双链DNA。该双链DNA则整合至宿主细胞的DNA上，成为前病毒，再由其转录出子代RNA和mRNA（A对）”。",
+    "discuss": ""
+}

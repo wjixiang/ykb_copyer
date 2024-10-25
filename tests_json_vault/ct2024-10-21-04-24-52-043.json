@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-24-52-043",
+    "cls": "医学免疫学",
+    "numb": "82",
+    "unit": "第四章 抗体",
+    "mode": "A1",
+    "test": "构成BCR的主要是",
+    "option": [
+        "A.IgM",
+        "B.IgG",
+        "C.IgE",
+        "D.IgA",
+        "E.IgD"
+    ],
+    "answer": "A",
+    "point": "（P36）“单体IgM以膜结合型（mIgM）（A对）表达于B细胞表面，构成B细胞抗原受体（BCR），只表达mIgM是未成熟B细胞的标志”。（P37）“膜结合型IgD（mIgD）是B细胞分化成熟的标志，未成熟B细胞仅表达mIgM，成熟B细胞可同时表达mIgM和mIgD，称为初始B细胞；B细胞活化后期表面的mIgD逐渐消失 ”。",
+    "discuss": ""
+}

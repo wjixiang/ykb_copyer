@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-26-00-583",
+    "cls": "医学免疫学",
+    "numb": "10",
+    "unit": "第五章 补体系统",
+    "mode": "A1",
+    "test": "能通过经典途径激活补体的Ig是",
+    "option": [
+        "A.IgG1、IgG2、IgG4、IgM",
+        "B.IgG1、IgG2、IgG3、IgM",
+        "C.IgG、IgA、IgE、IgM",
+        "D.聚集的IgG4、IgA、IgE",
+        "E.IgG4、IgA、IgE、IgD"
+    ],
+    "answer": "B",
+    "point": "（P41）“（一）经典途径…1.激活物经典途径的激活物主要是与抗原结合的IgM、IgG分子”（B对）。（P34）“其中IgM、IgG1和IgG3激活补体的能力较强，IgG2较弱。IgA、IgE和IgG4本身难以激活补体，但形成聚合物后可通过旁路途径激活补体系统”（ACDE错）。",
+    "discuss": "补体的经典激活途径的激活物主要是IgM、IgG分子（B对），IgG分为IgG1~4四种亚型，IgG1和IgG3激活补体的能力较强，IgG2较弱，IgA、IgE和IgG4（ACDE错）本身难以激活补体，但形成聚合物后可通过旁路途径激活补体系统。"
+}

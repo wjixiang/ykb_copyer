@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-24-04-03-40-764",
+    "cls": "诊断学",
+    "numb": "95",
+    "unit": "第四篇 第二章 临床血液学检测",
+    "mode": "X",
+    "test": "原发性高脂血症（Ⅰ型）以下哪些增高",
+    "option": [
+        "A.TC",
+        "B.TG",
+        "C.CM",
+        "D.LDL",
+        "E.VLDL"
+    ],
+    "answer": "ABC",
+    "point": "（九版病理生理学P82）“表6-2表型分类中各型高脂蛋白血症特点”（ABC对DE错）。",
+    "discuss": "高脂蛋白血症共有6型：①总胆固醇（A对）（totalcholesterol，TC）增高见于Ⅰ、Ⅱa、Ⅱb、Ⅴ型；②三酰甘油（B对）（triglyceride，TG）见于Ⅰ、Ⅱb、Ⅲ、Ⅴ型；③乳糜微粒（C对）（chylomicron，CM）见于Ⅰ、Ⅴ型；④低密度脂蛋白（D错）（low density lipoprotein，LDL）增高见于Ⅱa、Ⅱb型；⑤极低密度脂蛋白（E错）（verylow density lipoprotein，VLDL）增高见于Ⅲ、Ⅳ、Ⅴ型。"
+}

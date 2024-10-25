@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-02-10-30-819",
+    "cls": "生理学",
+    "numb": "1",
+    "unit": "第七章 能量代谢与体温",
+    "mode": "A1",
+    "test": "体内重要的储能但不能直接供能的物质是",
+    "option": [
+        "A.ATP",
+        "B.ADP",
+        "C.cAMP",
+        "D.cGMP",
+        "E.CP"
+    ],
+    "answer": "E",
+    "point": "（P208）“CP（E对）主要存在于肌肉和脑组织中…可以认为 CP 是体内 ATP 的储存库”。（P208）“体内 ATP（A错）既是直接的供能物质，又是能量储存的重要形式”。（P208）“当组织消耗 ATP 增多，超过营养物质氧化生成 ATP 的速度时，CP 的高能磷酸键又可快速转给 ADP（B错），生成 ATP，以补充 ATP 的消耗”。（P359）“也发现除 cAMP（C错）外，细胞内的 cGMP（D错）…等第二信使”。",
+    "discuss": "CP（E对）（creatine phosphate，磷酸肌酸）是体内重要的储能但不能直接供能的物质。体内 ATP（A错）（adenosine triphosphate，腺苷三磷酸）既是直接的供能物质，又是能量储存的重要形式。在人体在生命活动过程中不断消耗 ATP，同时营养物质氧化分解释放的能量又将ADP（B错）（adenosine diphosphate，腺苷二磷酸）磷酸化重新生成 ATP。cAMP（C错）（cyclicadenosine monophosphate，环－磷酸腺苷）和cGMP（D错）（cyclic guanosine monophosphate ，环－磷酸鸟苷）是第二信使，不是储能供能物质。"
+}

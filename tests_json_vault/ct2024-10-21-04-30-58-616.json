@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-30-58-616",
+    "cls": "医学免疫学",
+    "numb": "76",
+    "unit": "第六章 细胞因子",
+    "mode": "X",
+    "test": "肿瘤化疗后粒细胞减少可用",
+    "option": [
+        "A.IL-11",
+        "B.GM-CSF",
+        "C.IL-2",
+        "D.IFN-α",
+        "E.G-CSF"
+    ],
+    "answer": "BE",
+    "point": "（P57）“表6-1已批准上市的重组细胞因子药物”（BE对ACD错）。",
+    "discuss": "IL-11（interleukin，白细胞介素）（A错）适用于放疗、化疗所致血小板减少症；IL-2（C错）适用于免疫缺陷。肿瘤化疗后粒细胞减少可用GM-CSF（granulocyte　macrophage　colony　stimulating　factor，粒细胞巨噬细胞集落刺激因子）（B对）和G-CSF（granulocyte　colony　stimulating　factor，粒细胞集落刺激因子）（E对）。IFN-α（interferon，干扰素）（D错）适于白血病。"
+}

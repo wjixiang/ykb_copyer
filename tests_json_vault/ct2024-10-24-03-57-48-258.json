@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-24-03-57-48-258",
+    "cls": "诊断学",
+    "numb": "30",
+    "unit": "第三篇 第九章 神经系统检查",
+    "mode": "A1",
+    "test": "在病理反射中，上肢锥体束征为",
+    "option": [
+        "A.Oppenheim征",
+        "B.Babinski征",
+        "C.Hoffmann征",
+        "D.Gordon征"
+    ],
+    "answer": "C",
+    "point": "（P218）“1.Babinski征（B错）…用竹签沿病人足底外侧缘，由后向前至小趾近跟部并转向内侧，阳性反应为足母趾背伸，余趾呈扇形展开。2.Oppenheim征（A错）…3.Gordon征（D错）…以上3种体征临床意义相同…4.Hoffmann征（C对）…反射中枢为颈髓7节至胸髓1节”。",
+    "discuss": "机体的病理反射包括Babinski征、Oppenheim征、Gordon征、Hoffmann征等。检查Hoffmann征其反射中枢为颈髓7节至胸髓1节，因而Hoffmann征（C对）属于上肢锥体束征。Babinski征（B错）及其等位征Oppenheim征（A错）、Gordon征（D错）均检查下肢，阳性表现均为足母趾背伸，余趾呈扇形展开，故属于下肢病理反射。"
+}

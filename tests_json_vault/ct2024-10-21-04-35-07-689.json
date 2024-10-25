@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-35-07-689",
+    "cls": "医学免疫学",
+    "numb": "77",
+    "unit": "第八章 主要组织相容性复合体",
+    "mode": "X",
+    "test": "人MHC经典Ⅰ类基因座位是",
+    "option": [
+        "A.HLA-A",
+        "B.HLA-B",
+        "C.HLA-C",
+        "D.HLA-E",
+        "E.HLA-F"
+    ],
+    "answer": "ABC",
+    "point": "（P68）“HLAⅠ类基因区由经典Ⅰ类基因座（HLAⅠa）即A（A对）、B（B对）、C（C对）和非经典Ⅰ类基因座（HLAⅠb）即E（D错）、F（E错）、G等组成”。",
+    "discuss": "HLA（人类白细胞抗原）Ⅰ类基因区由经典Ⅰ类基因座和非经典Ⅰ类基因组成，其中HLA-A（A对）、HLA-B（B对）和HLA-C（C对）为经典HLAⅠ类基因座，而HLA-E（D错）、HLA-F（E错）和HLA-G为非经典HLAⅠ类基因座。"
+}

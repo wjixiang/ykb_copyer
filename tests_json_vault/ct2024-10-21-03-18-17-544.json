@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-03-18-17-544",
+    "cls": "生物化学与分子生物学",
+    "numb": "6",
+    "unit": "第十二章 DNA 的合成",
+    "mode": "A1",
+    "test": "用实验证实DNA的半保留复制的学者是",
+    "option": [
+        "A.Waison和Crick",
+        "B.Komberg",
+        "C.Sanger",
+        "D.MeselsonM和StabhlFW",
+        "E.上述四种都可以"
+    ],
+    "answer": "D",
+    "point": "（P233）“1958 年，MeselsonM 和 StahlFW （D对）用实验证实自然界的 DNA 复制方式是半保留式的”。",
+    "discuss": ""
+}

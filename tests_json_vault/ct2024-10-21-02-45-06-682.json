@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-02-45-06-682",
+    "cls": "生理学",
+    "numb": "191",
+    "unit": "第十一章 内分泌",
+    "mode": "X",
+    "test": "直接作用于全身各处靶细胞的腺垂体激素有",
+    "option": [
+        "A.PRL",
+        "B.TSH",
+        "C.GH",
+        "D.ACTH",
+        "E.FSH"
+    ],
+    "answer": "AC",
+    "point": "（P366）“TSH（B错）、ACTH（D错）、FSH（E错）与LH均作用于各自的内分泌靶腺，属于促激素， 参与构成下丘脑-腺垂体-靶腺轴系统。而GH（C对）和PRL（A对）等则分别直接作用于其各自的靶细胞或靶组织”。",
+    "discuss": "催乳素（prolactin，PRL）（A对）、生长激素（growth hormone，GH）（C对）均由腺垂体分泌，直接作用于全身各处靶细胞发挥生物学作用。促甲状腺激素（thyrotropin，TSH）（B错）、促肾上腺皮质激素（adrenocorticotropic hormone，ACTH（D错）、卵泡刺激素（follicle stimulating hormone，FSH）（E错）和黄体生成素（luteinizing hormone，LH）均由腺垂体分泌，属于促激素，作用于各自的内分泌靶腺，而不是直接作用于全身各处靶细胞。"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-03-45-13-854",
+    "cls": "医学微生物学",
+    "numb": "3",
+    "unit": "第二章 细菌的生理",
+    "mode": "A1",
+    "test": "A 23-year-old woman has ten E-coli inoculated into her bladder while having sex. These E-coli have a generation time of 20 minutes. After a lag phase（迟缓期）of 20 minutes， the E-coli enter the logarithmic phase of growth（对数生长期）. After 3 hours of lag and loga",
+    "option": [
+        "A.90",
+        "B.1280",
+        "C.2560",
+        "D.5120",
+        "E.1000000"
+    ],
+    "answer": "C",
+    "point": "（P24）“图2-1细菌的生长曲线”（C对）。",
+    "discuss": "大肠杆菌分裂一代要20分钟，经过20分钟的迟缓期，大肠杆菌进入对数生长期，问3小时后大肠杆菌对数期的数量。3小时为180分钟，去掉迟缓期20分钟（迟缓期繁殖极少），还剩160分钟的对数期，题目中所给大肠杆菌的代时为20分钟，故可产生8代。故三小时后大肠杆菌的数量为2⁸×10=2560（C对）。"
+}

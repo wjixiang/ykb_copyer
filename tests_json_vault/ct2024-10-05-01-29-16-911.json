@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-05-01-29-16-911",
+    "cls": "医学细胞生物学",
+    "numb": "56",
+    "unit": "第一篇 第三章 细胞生物学的研究方法",
+    "mode": "A1",
+    "test": "检测具有特异序列的DNA分子的方法是",
+    "option": [
+        "A.FISH",
+        "B.PCR",
+        "C.Southernblot",
+        "D.Northernhlot",
+        "E.Westernblot"
+    ],
+    "answer": "C",
+    "point": "（P64）“Southern印迹杂交技术（C对）是检测基因组中特异DNA序列的方法”。（P54）“Northern印迹分析（D错）是检测组织或细胞中特异性mRNA的方法…Western印迹分析（E错）检测的是蛋白质分子…组织细胞中基因的表达不仅存在量的差异，而且还存在表达时间和空间的变化。核酸原位杂交技术（ISH）（A错）是在RNA水平检测这些变化的基本方法…聚合酶链式反应（PCR）（B错）能够在体外对特定DNA序列进行重复性复制”。",
+    "discuss": "FISH（A错）技术是荧光原位杂交，为原位杂交技术基础上发展而来的技术，属于DNA分子杂交技术。PCR（B错）指在体外对特定DNA序列进行重复性复制的技术。20世纪80年代后相继建立了能够定量检测RNA和蛋白质分子的Northern、Western印迹分析技术，其中Northernblot（D错）是检测组织或细胞中特异性mRNA的方法，Westernblot（E错）检测的是蛋白质分子，Southernblot（C对）则是检测基因组中特异DNA序列的方法。"
+}

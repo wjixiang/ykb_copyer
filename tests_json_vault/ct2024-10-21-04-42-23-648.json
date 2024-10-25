@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-42-23-648",
+    "cls": "医学免疫学",
+    "numb": "37",
+    "unit": "第十一章 抗原提呈细胞的加工及提呈",
+    "mode": "X",
+    "test": "专职APC细胞激活T细胞必备的共刺激分子是",
+    "option": [
+        "A.CTLA-4分子",
+        "B.CD28分子",
+        "C.CD80/CD86分子",
+        "D.ICAM-1分子",
+        "E.LFA-3分子"
+    ],
+    "answer": "CDE",
+    "point": "（P94）“成熟DC还高表达CD80、CD86（C对）、CD40等共刺激分子，为T细胞充分活化提供了第二信号…DC高表达ICAM-1（D对）等黏附分子使之与T细胞牢固结合，有利于细胞之间的相互作用”。（P100）“图12-1APC与T细胞形成免疫突触”（E对）。（P143）“在CD28家族中，能够激活T细胞的共刺激分子是CD28（B错），带有ITAM；具有抑制作用的共刺激分子主要包括CTLA-4（A错）和PD-1等”。",
+    "discuss": "专职APC（antigen presenting cell，抗原提呈细胞）表达CD80、CD86等共刺激分子（C对）促进T细胞活化，表达ICAM-1（intercellular adhesion molecule-1，细胞间黏附分子-1）（D对）使之与T细胞牢固结合，还需具备LFA-3（Lymphocyte Function-associated Antigen-3，淋巴细胞功能相关抗原）分子（E对）与T细胞表面CD2结合。CTLA-4（A错）与CD28（B错）与T细胞的激活抑制有关。"
+}

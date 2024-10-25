@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-21-03-39-10-144",
+    "cls": "生物化学与分子生物学",
+    "numb": "54",
+    "unit": "第二十三章 DNA 重组和重组DNA 技术",
+    "mode": "X",
+    "test": "在分子克隆中，目的DNA可来自",
+    "option": [
+        "A.原核细胞基因组DNA",
+        "B.真核细胞基因组DNA",
+        "C.PCR合成的DNA",
+        "D.真核细胞mRNA反转录获得的cDNA"
+    ],
+    "answer": "ABCD",
+    "point": "",
+    "discuss": ""
+}

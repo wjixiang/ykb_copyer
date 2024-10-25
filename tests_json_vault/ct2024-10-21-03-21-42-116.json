@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-21-03-21-42-116",
+    "cls": "生物化学与分子生物学",
+    "numb": "5",
+    "unit": "第十四章 RNA 的合成",
+    "mode": "A1",
+    "test": "参与转录的酶是",
+    "option": [
+        "A.依赖DNA的RNA聚合酶",
+        "B.依赖DNA的DNA聚合酶",
+        "C.依赖RNA的DNA聚合酶",
+        "D.依赖RNA的RNA聚合酶"
+    ],
+    "answer": "A",
+    "point": "（P262）“生物体以DNA为模板合成RNA的过程称为转录，意指将DNA的碱基序列转抄为RNA…RNA的生物合成属于酶促反应，反应体系中需要DNA模板、NTP（包括ATP、UTP、CTP和GTP）、DNA依赖的RNA聚合酶（简称RNA pol）（A对）、其他蛋白质因子及Mg²⁺等”。（P235）“DNA聚合酶全称是依赖DNA的DNA聚合酶（DNA pol）（B错）…该酶可催化新链DNA生成”。（P247）“1970年，H.Temin和D.Baltimore分别从RNA病毒中发现能催化以RNA为模板合成双链DNA的酶，称为逆转录酶，全称是依赖RNA的DNA聚合酶（C错）”。（P262）“另一种是RNA依赖的RNA合成，也称RNA复制，由RNA依赖的RNA聚合酶（D错）催化”。",
+    "discuss": "依赖DNA的RNA聚合酶（A对）参与转录过程。依赖DNA的DNA聚合酶（B错）为复制酶，参与DNA的复制。依赖RNA的DNA聚合酶（C错）为逆转录酶，参与逆转录。依赖RNA的RNA聚合酶（D错）参与RNA的复制。"
+}

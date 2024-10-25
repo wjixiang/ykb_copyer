@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-03-22-48-501",
+    "cls": "生物化学与分子生物学",
+    "numb": "47",
+    "unit": "第十四章 RNA 的合成",
+    "mode": "A1",
+    "test": "成熟mRNA的前体是",
+    "option": [
+        "A.rRNA",
+        "B.tRNA",
+        "C.hnRNA",
+        "D.核内小RNA",
+        "E.核仁小RNA"
+    ],
+    "answer": "C",
+    "point": "（P275）“前体mRNA也称为初级mRNA转录物或核不均一RNA（hnRNA）”（C对）。",
+    "discuss": "成熟mRNA的前体是hnRNA（不均一核RNA）（C对），是转录直接生成的RNA分子。生成的hnRNA需要经过5＇-端和3＇-端（首、尾部）的修饰以及对hnRNA进行剪接修饰，才能成为成熟的mRNA。rRNA（核糖体RNA）参与核糖核蛋白体的构成，核糖核蛋白体是蛋白质翻译的场所。tRNA（转运RNA）（B错）参与氨基酸的转运，合成肽链。snRNA（核内小RNA）（D错）参与真核细胞hnRNA的内含子加工剪接。核仁小RNA（snoRNA）（E错）定位于核仁，主要参与rRNA的加工和修饰。"
+}

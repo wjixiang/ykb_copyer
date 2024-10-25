@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-21-04-12-01-299",
+    "cls": "医学微生物学",
+    "numb": "1",
+    "unit": "第二十六章 肠道病毒",
+    "mode": "A1",
+    "test": "肠道病毒的核酸类型是",
+    "option": [
+        "A.ssDNA",
+        "B.dsDNA",
+        "C.dsRNA",
+        "D.ss（+）RNA"
+    ],
+    "answer": "D",
+    "point": "",
+    "discuss": ""
+}

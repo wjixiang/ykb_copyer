@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-21-03-27-25-469",
+    "cls": "生物化学与分子生物学",
+    "numb": "60",
+    "unit": "第十六章 基因表达调控",
+    "mode": "X",
+    "test": "能参与切割mRNA的生物分子包括",
+    "option": [
+        "A.miRNA",
+        "B.siRNA",
+        "C.5.8S rRNA",
+        "D.tRNA"
+    ],
+    "answer": "AB",
+    "point": "（P324）“这些成熟的miRNA与其他蛋白质一起组成RNA诱导的沉默复合体（RISC），通过与其靶mRNA分子的3’-UTR互补匹配，促使该mRNA分子的降解或抑制其翻译”（A对）。（P324）“siRNA参与RISC组成，与特异的靶mRNA完全互补结合，导致靶mRNA降解，阻断翻译过程”（B对）。",
+    "discuss": "miRNA（microRNA）中译名微RNA（P49），siRNA（small interfering RNA）中译名小干扰RNA（P49），二者均属于真核生物的非编码小分子RNA，它们具有一些共同的特点：均由一种名为Dicer的特异性核酸内切酶切割产生；长度均在22个碱基左右；均与一种名为RISC（RNA诱导的沉默复合体）的复合体结合，通过碱基互补配对的方式识别靶mRNA，最终利用RISC切割降解靶mRNA（AB对），阻断翻译过程。miRNA和siRNA参与切割降解mRNA的详细过程见二版八年制生物化学P432 图21-13。5.8S rRNA为真核生物核糖体（蛋白质合成的场所）大亚基的rRNA组分之一（P48），tRNA为蛋白质合成过程中氨基酸的转运载体（P45），二者均不参与切割mRNA的过程（CD错）。"
+}

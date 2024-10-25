@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-01-36-09-243",
+    "cls": "生理学",
+    "numb": "48",
+    "unit": "第二章 细胞的基本功能",
+    "mode": "A1",
+    "test": "下列物质中哪一种属于second messenger",
+    "option": [
+        "A.ATP",
+        "B.ADP",
+        "C.cAMP",
+        "D.5'-AMP",
+        "E.AMP"
+    ],
+    "answer": "C",
+    "point": "（P27）“第二信使（second messenger）是指激素、神经递质、细胞因子等细胞外信使分子（第一信使）作用于膜受体后产生的细胞内信使分子。Sutherland因发现环－磷酸腺苷cAMP（C对）的第二信使作用而荣获1971年生理学或医学诺贝尔奖”。",
+    "discuss": "cAMP（C对）可作为第二信使（second messenger），使胞质中无活性的蛋白激酶等下游功能蛋白质逐级磷酸化，最终引起细胞的生物效应。"
+}

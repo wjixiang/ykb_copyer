@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-21-01-41-10-120",
+    "cls": "生理学",
+    "numb": "20",
+    "unit": "第三章 血液",
+    "mode": "A1",
+    "test": "维持血浆pH相对恒定最重要的缓冲对是",
+    "option": [
+        "A.Na₂HPO₄/NaH₂PO₄",
+        "B.NaHCO₃/H₂CO₃",
+        "C.K₂HPO₄/KH₂PO₄",
+        "D.KHCO₃/H₂CO₃"
+    ],
+    "answer": "B",
+    "point": "（P60）“血浆内的缓冲物质主要包括NaHCO₃/H₂CO₃、蛋白质钠盐/蛋白质和Na₂HPO₄/NaH₂PO₄三个缓冲对，其中NaHCO₃/H₂CO₃最重要”（B对）。",
+    "discuss": ""
+}

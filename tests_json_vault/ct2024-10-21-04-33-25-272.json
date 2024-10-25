@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-33-25-272",
+    "cls": "医学免疫学",
+    "numb": "18",
+    "unit": "第八章 主要组织相容性复合体",
+    "mode": "A1",
+    "test": "TNF的编码基因位于",
+    "option": [
+        "A.HLA-Ⅰ区",
+        "B.HLA-B区",
+        "C.HLA-Ⅱ区",
+        "D.HLA-Ⅲ区",
+        "E.HLA-DR区"
+    ],
+    "answer": "D",
+    "point": "（P68）“Ⅲ类基因区（D对）包括补体基因C2、B、C4及参与炎症反应的基因TNF、LTA、LTB和HSP等基因座位”。（P68）“HLAⅠ类基因区由经典Ⅰ类基因座（HLAⅠa）即A、B（B错）、C和非经典Ⅰ类基因座（HLAⅠb）即E、F、G等组成。Ⅱ类基因区由经典的DP、DQ、DR（E错）和参与抗原加工提呈的DM、TAP、PSMB等基因座组成”。",
+    "discuss": "TNF的编码基因位于HLA-Ⅲ区（D对）。HLAI区（A错）由经典Ⅰ类基因座（HLAⅠa）即A、B（B错）、C和非经典Ⅰ类基因座（HLAⅠb）即E、F、G等组成。HLA-Ⅱ区（C错）由经典的DP、DQ、DR（E错）和参与抗原加工提呈的DM、TAP、PSMB等基因座组成。"
+}

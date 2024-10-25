@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-36-01-811",
+    "cls": "医学免疫学",
+    "numb": "6",
+    "unit": "第九章 B淋巴细胞",
+    "mode": "A1",
+    "test": "在外周血中，成熟B细胞表型一般为",
+    "option": [
+        "A.mIgM⁺mIgD⁺CD5⁻",
+        "B.mIgM⁺mIgD⁺CD5⁺",
+        "C.mIgM⁺mIgD⁻CD5⁻",
+        "D.mIgM⁺mIgD⁻CD5⁺",
+        "E.mIgM⁻mIgD⁻CD5⁺"
+    ],
+    "answer": "A",
+    "point": "（P77）“成熟B细胞表面可同时表达mIgM和mIgD（A对）”。（P80）“小鼠B1细胞表面标志为CD5分子（BDE错）”。（P77）“未成熟B细胞的特征是可以表达完整BCR（mIgM）（C错），此时如受抗原刺激，则引发凋亡而导致克隆清除，形成自身免疫耐受”。",
+    "discuss": "成熟B细胞表型一般为mIgM⁺MmIgD⁺CD5⁻（A对），mIgM⁺mIgD⁻CD5⁻（C错）为未成熟B细胞表型。CD5⁺（BDE错） 表达于小鼠B1细胞表面，也表达于人B1细胞表面，但主要定位于胸膜腔而不是外周血。"
+}

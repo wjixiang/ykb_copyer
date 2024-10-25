@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-21-01-16-41-817",
+    "cls": "医学细胞生物学",
+    "numb": "7",
+    "unit": "第三篇 第十二章 细胞间信息传递",
+    "mode": "A1",
+    "test": "GTP酶激活蛋白（GAP）的作用是",
+    "option": [
+        "A.激活Ras",
+        "B.使Ras失活",
+        "C.抑制三联体G蛋白",
+        "D.激活三联体G蛋白"
+    ],
+    "answer": "B",
+    "point": "（P278）“图12-4酪氨酸激酶活性区示意图”（P288）“Ras蛋白是一种GTP结合蛋白，具有GTPase活性，Ras-GTP是其活化形式而Ras-GDP是其失活形式”（B对）。",
+    "discuss": "GTP酶激活蛋白（GAP）的作用是激活GTP酶，使GTP水解成GDP，GDP与Ras结合成Ras-GDP为失活形式，因此GTP酶激活蛋白（GAP）的作用是使Ras失活（B对）。"
+}

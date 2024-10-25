@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-02-58-52-604",
+    "cls": "生物化学与分子生物学",
+    "numb": "71",
+    "unit": "第五章 糖代谢",
+    "mode": "A1",
+    "test": "1分子乙酰CoA经三羧酸循环氧化后的产物是",
+    "option": [
+        "A.草酰乙酸",
+        "B.草酸乙酸和CO₂",
+        "C.CO₂+H₂O",
+        "D.草酰乙酸+CO₂+H₂O",
+        "E.2CO₂+4分子还原当量+GTP"
+    ],
+    "answer": "E",
+    "point": "（P100）“CH₃CO-SCoA+3NAD⁺ +FAD⁺GDP（ADP） +Pi+2H₂O→2CO₂+3NADH⁺ 3H⁺ +FADH₂+HS-CoA+GTP（ATP）”（E对）。",
+    "discuss": "1分子乙酰CoA经三羧酸循环氧化后的产物是2CO₂+4分子还原当量+3H⁺+HS-CoA+GTP（ATP）（E对）。"
+}

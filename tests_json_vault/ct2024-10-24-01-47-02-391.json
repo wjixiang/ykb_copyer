@@ -1,0 +1,18 @@
+{
+  "name": "2024-10-24-01-47-02-391",
+  "cls": "病理生理学",
+  "numb": "28",
+  "unit": "第十六章 肺功能不全",
+  "mode": "A3/A4型题",
+  "test": "女性，70岁，呼吸衰竭，呼吸机辅助呼吸2小时后，动脉血气结果如下，医生判断需要增加通气量，可能是哪一项结果",
+  "option": [
+    "A.PaO₂45mmHg，PaCO₂70mmHg，pH7.3",
+    "B.PaO₂70mmHg，PaCO₂60mmHg，pH7.35",
+    "C.PaO₂95mmHg，PaCO₂30mmHg，pH7.45",
+    "D.PaO₂95mmHg，PaCO₂20mmHg，pH7.5",
+    "E.PaO₂90mmHg，PaCO₂36mmHg，pH7.4"
+  ],
+  "answer": "B",
+  "point": "",
+  "discuss": ""
+}

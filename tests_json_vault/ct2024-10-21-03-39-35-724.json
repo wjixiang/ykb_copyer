@@ -1,0 +1,17 @@
+{
+    "name": "2024-10-21-03-39-35-724",
+    "cls": "生物化学与分子生物学",
+    "numb": "11",
+    "unit": "第二十四章 常用分子生物学技术的原理及其应用",
+    "mode": "A1",
+    "test": "分析蛋白质表达量的实验技术是",
+    "option": [
+        "A.Southernblotting",
+        "B.Westernblotting",
+        "C.Northernblotting",
+        "D.PCR"
+    ],
+    "answer": "B",
+    "point": "（P441）“人们发现蛋白质在电泳之后也可以从胶中转移并固定到膜型材料上，再依靠与溶液中相应的蛋白质分子相互结合来进行定性定量分析，其中最常用的是用抗体来检测，因此亦被称为免疫印迹。相对于DNA的Southern blotting（A错）和RNA的Northern blotting（C错），蛋白质印迹被称为Western blotting（B对）”。",
+    "discuss": "蛋白质在电泳之后可以从胶中转移并固定到膜型材料上，再依靠与溶液中相应的蛋白质分子相互结合来进行定性定量分析，这种蛋白质印迹技术称为Western blotting（B对）。Southern blotting（A错）为DNA印迹技术，主要用于基因组DNA的定性和定量分析。Northern blotting（C错）为RNA印迹技术，主要用于检测特定组织或细胞中已知的特异性mRNA和非编码RNA的表达水平，也可以比较不同组织和细胞中的同一基因的表达情况。PCR（P442）（D错）主要用于扩增特定的DNA片段。"
+}

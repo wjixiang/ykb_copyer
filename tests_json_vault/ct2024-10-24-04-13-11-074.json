@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-24-04-13-11-074",
+    "cls": "诊断学",
+    "numb": "16",
+    "unit": "第四篇 第七章 临床常用生物化学检测",
+    "mode": "A1",
+    "test": "以下哪项对诊断冠心病的危险度最高",
+    "option": [
+        "A.总胆固醇：5.6mmol/L",
+        "B.甘油三酯：1.7mmol/L",
+        "C.HDL：2.1mmol/L",
+        "D.LDL：3.6mmol/L",
+        "E.apoA1/apoB：0.9"
+    ],
+    "answer": "E",
+    "point": "（P379-P380）“apoAI/apoB比值＜1（E对）对诊断冠心病的危险性较血清TCTGHDLLDL更有价值，其灵敏度为87%，特异性为80%”。（P376）“（一）总胆固醇测定…2.边缘水平5.20-6.20mmol/L（A错）…（二）三酰甘油测定…2.边缘水平1.70-2.30mmol/L（B错）”。（P377-P378）“（二）高密度脂蛋白测定…【参考值】1.1.03-2.07mmol/L（C错）…（三）低密度脂蛋白测定…2.边缘水平3.4-4.1mmol/L（D错）”。",
+    "discuss": "apoA1/apoB：0.9（E对）即apoAI/apoB比值＜1，对诊断冠心病的危险性较血清TC、TG、HDL、LDL更有价值。总胆固醇：5.6mmol/L（A错）、甘油三酯：1.7mmol/L（B错）、LDL（低密度脂蛋白low density lipoprotein）：3.6mmol/L（D错）均处于参考值边缘水平，危险度较低；HDL：2.1mmol/L（C错）超过参考值水平，但由于HDL（高密度脂蛋白high density lipoprotein）是抗动脉粥样硬化因子，故其水平升高说明冠心病的危险度较低。"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-05-49-06-071",
+    "cls": "医学遗传学",
+    "numb": "24",
+    "unit": "第一部分 第八章 人类染色体",
+    "mode": "A1",
+    "test": "根据ISCN，人类C组染色体数目为",
+    "option": [
+        "A.7对",
+        "B.6对",
+        "C.7对+X染色体",
+        "D.6对+X染色体",
+        "E.以上都不是"
+    ],
+    "answer": "C",
+    "point": "（P105）“表8-1人类核型分组与各组染色体形态特征（非显带标本）”（C对）。",
+    "discuss": "根据ISCN（international system for human cytogenetic nomenclature，人类细胞遗传学命名的国际体制），人类C组染色体号为6-12、X，即7对+X染色体（C对）。"
+}

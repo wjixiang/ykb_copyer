@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-19-02-373",
+    "cls": "医学免疫学",
+    "numb": "34",
+    "unit": "第一章 免疫学概论",
+    "mode": "A1",
+    "test": "免疫网络学说的创始人",
+    "option": [
+        "A.Jerne",
+        "B.Porter",
+        "C.Edelman",
+        "D.Rowe",
+        "E.Pernis"
+    ],
+    "answer": "A",
+    "point": "（P6）“NielsJerne（A对）在1974年提出了抗体分子上的独特型和抗独特型相互识别而形成免疫网络”。（P5）“1959年，英国生物化学家RodneyPorter（B错）和美国生物化学家GeraldEdelman（C错）各自对免疫球蛋白化学结构进行了研究”。",
+    "discuss": "Jerne（A对）是免疫网络学说的创始人。Porter（B错）对免疫球蛋白化学结构进行研究。Edelman（C错）对免疫球蛋白化学结构进行研究。Rowe（D错）自骨髓瘤患者的血清内发现了IgD。Pernis（E错）等用免疫荧光法证明了淋巴细胞膜Ig受体存在。"
+}

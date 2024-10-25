@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-24-04-13-05-216",
+    "cls": "诊断学",
+    "numb": "13",
+    "unit": "第四篇 第七章 临床常用生物化学检测",
+    "mode": "A1",
+    "test": "apo-B为下列哪项的主要成分",
+    "option": [
+        "A.HDL",
+        "B.LDL",
+        "C.VLDL",
+        "D.CM",
+        "E.LP（a）"
+    ],
+    "answer": "B",
+    "point": "（P379）“载脂蛋白B（apoB）LDL（B对）中含量最多的蛋白质，90%以上apoB存在于LDL…apoA、apoB分别为HDL（A错）、LDL主要成分”。（九版生物化学与分子生物学P165）“表7-5血浆脂蛋白的分类、性质、组成及功能”（CDE错）。",
+    "discuss": "HDL（高密度脂蛋白high density lipoprotein）（A错）的主要成分是apo-A，LDL（低密度脂蛋白low density lipoprotein）（B对）的主要成分是apo-B，VLDL（极低密度脂蛋白very low density lipoprotein）（C错）和CM（乳糜微粒chylomicron）（D错）的主要成分是甘油三酯，LP（a）（脂蛋白（a）lipoprotein（a））（E错）的主要成分是胆固醇。"
+}

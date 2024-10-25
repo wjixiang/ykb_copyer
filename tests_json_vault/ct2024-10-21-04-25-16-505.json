@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-25-16-505",
+    "cls": "医学免疫学",
+    "numb": "99",
+    "unit": "第四章 抗体",
+    "mode": "A1",
+    "test": "天然血型抗体是",
+    "option": [
+        "A.IgA",
+        "B.IgM",
+        "C.IgD",
+        "D.IgE",
+        "E.IgG"
+    ],
+    "answer": "B",
+    "point": "",
+    "discuss": ""
+}

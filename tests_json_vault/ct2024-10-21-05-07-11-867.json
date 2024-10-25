@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-05-07-11-867",
+    "cls": "医学免疫学",
+    "numb": "25",
+    "unit": "第二十四章 免疫学检测技术",
+    "mode": "X",
+    "test": "ELISPOT可用于检测",
+    "option": [
+        "A.Th1",
+        "B.Th2",
+        "C.APC",
+        "D.CTL",
+        "E.B细胞"
+    ],
+    "answer": "ABDE",
+    "point": "（P214）“③酶联免疫斑点试验（ELISPOT）：该法用于检测B细胞（E对）特异性抗体及T细胞产生的细胞因子…如测定产生细胞因子的抗原特异性CTL（D对）、Th1（A对）、Th2（B对）和Th17等亚群”。",
+    "discuss": "ELISPOT（enzyme　linked　immunospot，酶联免疫斑点试验）可用于检测B细胞（E对）特异性抗体，也可测定产生细胞因子的抗原特异性CTL（cytotoxic　lymphocyte，细胞毒性T淋巴细胞）（D对）、Th1（helper　T　cell，辅助性T细胞1）（A对）、Th2（helper　T　cell，辅助性T细胞2）（B对）和Th17（helper　T　cell，辅助性T细胞17）等亚群。"
+}

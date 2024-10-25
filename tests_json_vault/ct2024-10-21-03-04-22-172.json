@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-03-04-22-172",
+    "cls": "生物化学与分子生物学",
+    "numb": "90",
+    "unit": "第六章 生物氧化",
+    "mode": "A1",
+    "test": "NADH呼吸链组分的排列顺序为",
+    "option": [
+        "A.NAD⁺→FAD→CoQ→Cyt→O₂",
+        "B.NAD⁺→FMN→CoQ→Cyt→O₂",
+        "C.NAD⁺→CoQ→FMN→Cyt→O₂",
+        "D.FAD→NAD⁺→CoQ→Cyt→O₂",
+        "E.CoQ→NAD⁺→FMN→Cyt→O₂"
+    ],
+    "answer": "B",
+    "point": "（P139）“NADH呼吸链的组成及电子传递顺序是：NADH→复合体Ⅰ→CoQ→复合体Ⅲ→Cytc→复合体Ⅳ→O₂，传递一对电子可生成2.5分子ATP”（B对）。",
+    "discuss": "氧化呼吸链有两条途径：一条被称作NADH氧化呼吸链，另一条被称为FADH2氧化呼吸链，NADH氧化呼吸链是以NADH为电子供体，从NADH⁺H+开始经复合体Ⅰ到O₂而生成H₂O，该呼吸链以NAD⁺作为起始（DE错），之后由复合体Ⅰ是接受电子，而传递电子的功能辅基是复合体Ⅰ中的FMN（AB错），故该呼吸链可描述为：NAD⁺→FMN→CoQ→Cyt→O₂（B对）。"
+}

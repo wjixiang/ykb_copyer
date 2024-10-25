@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-25-02-18-48-968",
+    "cls": "卫生学",
+    "numb": "89",
+    "unit": "第一篇 第一章 人类和环境",
+    "mode": "A1",
+    "test": "下列毒物毒性最大的是",
+    "option": [
+        "A.CCl₄",
+        "B.CHCl₃",
+        "C.CH₂Cl₂",
+        "D.CH₃Cl",
+        "E.CH₄"
+    ],
+    "answer": "A",
+    "point": "（P33）“在化合物中，氯取代氢愈多肝毒性则愈大，如CCl₄（A对）＞CHCl₃（B错）＞CH₂Cl₂（C错）＞CH₃Cl（D错）＞CH₄（E错）”。",
+    "discuss": "在化合物中，氯取代氢愈多肝毒性则愈大，如CCl₄＞CHCl₃（B错）＞CH₂Cl₂（C错）＞CH₃Cl（D错）＞CH₄（E错），故CCl₄（A对）毒性最大。"
+}

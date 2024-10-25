@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-05-01-25-19-939",
+    "cls": "医学细胞生物学",
+    "numb": "19",
+    "unit": "第一篇 第一章 绪论",
+    "mode": "X",
+    "test": "以下哪位科学家提出了细胞学说",
+    "option": [
+        "A.M.J.Schleiden",
+        "B.T.Schwann",
+        "C.R.Hooke",
+        "D.F.Crick",
+        "E.J.Watson"
+    ],
+    "answer": "AB",
+    "point": "（P3）“德国植物学家M.J.Schleiden（A对）（1838）和T.Schwann（B对）（1839）根据自己的研究并总结前人的工作，提出了细胞学说”。（P2）“细胞最早于1665年由英国科学家R.Hooke（C错）发现，是组成人类和所有生物体的基本单位（非细胞形态的病毒除外）”。（P5）“1953年J.Watson（E错）和F.Crick（D错）提出DNA双螺旋结构模型”。",
+    "discuss": "1838-1839年提出细胞学说的为M.J.Schleiden（A对）和T.Schwann（B对）。R.Hooke（C错）于1665年应用自制显微镜发现了细胞。F.Crick（D错）和J.Watson（E错）于1953年提出了DNA双螺旋结构模型。"
+}

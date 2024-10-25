@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-05-01-26-49-415",
+    "cls": "医学细胞生物学",
+    "numb": "45",
+    "unit": "第一篇 第二章 细胞的概念与分子基础",
+    "mode": "A1",
+    "test": "细胞中含量最多RNA是",
+    "option": [
+        "A.mRNA",
+        "B.hnRNA",
+        "C.rRNA",
+        "D.tRNA",
+        "E.snRNA"
+    ],
+    "answer": "C",
+    "point": "（P20）“mRNA（A错）约占细胞内总RNA的1%-5%…rRNA（C对）在细胞中的含量较丰富，约占RNA总量的80%~90%”。（P21）“tRNA（D错）的含量约占细胞总RNA的5%-10%…snRNA（E错）在细胞内的含量虽不及总RNA的1%”。",
+    "discuss": "在RNA中，mRNA（A错）占1%-5%，rRNA（C对）占80%~90%，tRNA（D错）占5%-10%，snRNA（E错）占不足1%，因此细胞中含量最多RNA是rRNA。"
+}

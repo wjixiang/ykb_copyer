@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-40-49-617",
+    "cls": "医学免疫学",
+    "numb": "98",
+    "unit": "第十章 T淋巴细胞",
+    "mode": "X",
+    "test": "ITIM中供SH2识别的YXXL",
+    "option": [
+        "A.与ITAM中的YXXL相同",
+        "B.y侧隔一个X可是I",
+        "C.y侧隔一个X可是V",
+        "D.y侧隔一个X可是任意氨基酸",
+        "E.y侧隔一个X必须是疏水性氨基酸"
+    ],
+    "answer": "ABCE",
+    "point": "",
+    "discuss": ""
+}

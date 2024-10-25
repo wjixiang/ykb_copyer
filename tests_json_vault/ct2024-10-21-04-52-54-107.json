@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-52-54-107",
+    "cls": "医学免疫学",
+    "numb": "39",
+    "unit": "第十七章 免疫调节",
+    "mode": "X",
+    "test": "抑制性受体要发挥负向调节作用",
+    "option": [
+        "A.需要和激活性受体同时被交联",
+        "B.其ITIM中的Y必须要先发生磷酸化",
+        "C.其ITIM中的Y有赖于Src-PTK激活提供磷酸根",
+        "D.需Y已磷酸化的ITIM招募PTP",
+        "E.需ITIM脱磷酸化"
+    ],
+    "answer": "ABCD",
+    "point": "（P142）“这一过程，依赖于受体或受体相关分子胞内段上两种独特的结构：免疫受体酪氨酸激活基序（ITAM）和免疫受体酪氨酸抑制基序（ITIM）”（A对）。（P143）“图17-2抑制性受体对活化性受体信号转导的负向调节作用”（BCD对E错）。",
+    "discuss": "ITIM为免疫受体酪氨酸抑制基序，ITIM位于免疫细胞某些受体分子的胞内段，它的基本结构为I/VxYxxL，信号传导时，首先是酪氨酸被Src活化，Src-PTK激活提供磷酸根（C对）使得ITIM中的Y发生磷酸化（B对E错），后Y已磷酸化的ITIM可招募并活化带有SH2的PTP（D对）（protein　tyrosine　phosphatase，蛋白酪氨酸磷酸酶），阻断信号转导通路，发挥负向调节作用；其行使功能需和其激活性受体同时被交联（A对）。见于KIR（killer　immunoglobulin-like　receptors，杀伤细胞免疫球蛋白样受体），CTLA-4，FcrRⅡ-B等分子。"
+}

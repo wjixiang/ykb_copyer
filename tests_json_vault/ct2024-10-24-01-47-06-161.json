@@ -1,0 +1,18 @@
+{
+  "name": "2024-10-24-01-47-06-161",
+  "cls": "病理生理学",
+  "numb": "30",
+  "unit": "第十六章 肺功能不全",
+  "mode": "A3/A4型题",
+  "test": "女性，70岁，呼吸衰竭，呼吸机辅助呼吸2小时后，治疗2小时后采集的动脉血气样本显示以下结果，请问哪个结果表明通气控制效果最佳",
+  "option": [
+    "A.PaO₂45mmHg，PaCO₂70mmHg，pH7.3",
+    "B.PaO₂70mmHg，PaCO₂60mmHg，pH7.35",
+    "C.PaO₂95mmHg，PaCO₂30mmHg，pH7.45",
+    "D.PaO₂95mmHg，PaCO₂20mmHg，pH7.5",
+    "E.PaO₂90mmHg，PaCO₂36mmHg，pH7.4"
+  ],
+  "answer": "E",
+  "point": "",
+  "discuss": ""
+}

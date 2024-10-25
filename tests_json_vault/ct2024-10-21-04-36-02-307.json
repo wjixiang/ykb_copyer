@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-36-02-307",
+    "cls": "医学免疫学",
+    "numb": "6",
+    "unit": "第九章 B淋巴细胞",
+    "mode": "A1",
+    "test": "不成熟B细胞表达的mIg主要为",
+    "option": [
+        "A.mIgA",
+        "B.mIgM",
+        "C.mIgD",
+        "D.mIgG",
+        "E.mIgE"
+    ],
+    "answer": "B",
+    "point": "（P77）“未成熟B细胞的特征是可以表达完整BCR（mIgM）（B对）”。（P77）“成熟B细胞表面可同时表达mIgM和mIgD（C错）”。（P81）“根据膜上的BCR类型，B细胞可分为表达IgM、IgD、IgG、IgA和IgE的B细胞亚群。未成熟B细胞与初始B细胞都是mIgM⁺B细胞，已活化并已分别发生过类别转换的B细胞包括mIgG+B细胞（D错）、mIgA+B细胞（A错）、mIgE+B细胞（E错）”。",
+    "discuss": "不成熟B细胞表达的mIg主要为mIgM（B对），成熟B细胞表面可同时表达mIgM和mIgD（D错），根据膜上的BCR类型，B细胞可分为表达mIgD（C错）、mIgA（A错）和mIgE（E错）的B细胞亚群。"
+}

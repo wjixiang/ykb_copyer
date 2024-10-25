@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-24-01-47-24-161",
+    "cls": "病理生理学",
+    "numb": "39",
+    "unit": "第十六章 肺功能不全",
+    "mode": "B",
+    "test": "以下哪种血气分析结果符合Ⅱ型呼吸衰竭",
+    "option": [
+        "A.PaO₂55mmHg，PaCO₂33mmHg",
+        "B.PaO₂55mmHg，PaCO₂60mmHg",
+        "C.PaO₂65mmHg，PaCO₂33mmHg",
+        "D.PaO₂65mmHg，PaCO₂45mmHg",
+        "E.PaO₂65mmHg，PaCO₂34mmHg"
+    ],
+    "answer": "B",
+    "point": "",
+    "discuss": ""
+}

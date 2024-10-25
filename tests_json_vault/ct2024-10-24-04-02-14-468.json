@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-24-04-02-14-468",
+    "cls": "诊断学",
+    "numb": "52",
+    "unit": "第四篇 第二章 临床血液学检测",
+    "mode": "A1",
+    "test": "反映红细胞体积大小变异的指标为",
+    "option": [
+        "A.MCV",
+        "B.MPV",
+        "C.RDW",
+        "D.HCT",
+        "E.ESR"
+    ],
+    "answer": "C",
+    "point": "（P250）“红细胞体积分布宽度（RDW）（C对）是反映外周血红细胞体积异质性的参数，由血细胞分析仪测量而获得”。（P249）“平均红细胞容积（MCV）（A错）MCV是指每个红细胞平均体积”。（P248）“血小板平均容积（MPV）（B错）表示单个血小板的平均容积”。（P249）“血细胞比容（HCT）（D错）又称血细胞压积（PCV）…血细胞比容测定可反映红细胞的增多或减少”。（P248）“红细胞沉降率（E错）或血沉率）是指红细胞在一定条件下沉降的速率”。",
+    "discuss": "（red blood cell volume distribution width，RDW）（C对）为红细胞体积分布宽度为反映红细胞体积大小变异的指标。（mean corpuscular volume，MCV）（A错）为平均红细胞容积是指每个红细胞平均体积。（mean platelet volume，MPV）（B错）为血小板平均容积为单个血小板的平均容积。（hematocrit，HCT）（D错）为红细胞比容可反映红细胞的增多或减少。（erythrocyte sedimentation rate，ESR）（E错）为红细胞沉降率，是指红细胞在一定条件下沉降的速率。"
+}

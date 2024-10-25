@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-24-03-58-27-889",
+    "cls": "诊断学",
+    "numb": "50",
+    "unit": "第三篇 第九章 神经系统检查",
+    "mode": "X",
+    "test": "下列哪些检查属于锥体束征",
+    "option": [
+        "A.Babinski征",
+        "B.Oppenheim征",
+        "C.Gordon征",
+        "D.Hoffmann征",
+        "E.Chaddock征"
+    ],
+    "answer": "ABCDE",
+    "point": "（九版神经病学P118-P119）“1.Babinski征（A对）是经典的病理反射，提示锥体束受损…2.Babinski等位征包括：①Chaddock征（E对）…②Oppenheim征（B对）…④Gordon征（C对）…至于这些等位征阳性反应的病理意义，临床上一般认为同Babinski征”。（P218）“4.Hoffmann征（D对）通常认为是病理反射”。",
+    "discuss": "锥体束受损时，大脑失去对脑干和脊髓的抑制作用而出现的异常反射称为病理反射。包括Babinski征（A对）及其等位征（Oppenheim征（B对）、Gordon征（C对）、Chaddock征（E对）等）、Hoffmann征（D对）。"
+}

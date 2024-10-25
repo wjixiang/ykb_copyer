@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-42-44-585",
+    "cls": "医学免疫学",
+    "numb": "9",
+    "unit": "第十二章 T淋巴细胞介导的适应性免疫应答",
+    "mode": "A1",
+    "test": "可与APC表面MHC分子结合，促进T细胞活化第一信号的分子",
+    "option": [
+        "A.TCR-CD3复合体",
+        "B.CD4和CD8分子",
+        "C.CD28和CTLA-4",
+        "D.LFA-1和ICAM-1",
+        "E.CD40L和CD40分子"
+    ],
+    "answer": "B",
+    "point": "（P101）“APC将pMHC提呈给T细胞，TCR特异性识别结合在MHC分子槽中的抗原肽，导致CD3与共受体（CD4或CD8）（B对）的胞浆段相互作用（A错）…使得T细胞初步活化。这是T细胞活化的第一信号…T细胞与APC细胞表面多对共刺激分子（C错）和CD80、CD86，4-1BB和4-lBBL，ICOS和ICOSL，CD40和CD40L（E错），PD-l和PD-Ll等）相互作用产生T细胞活化所需的第二信号（共刺激信号），导致T细胞完全活化”。",
+    "discuss": "CD4和CD8分子（B对）（cluster　of　differentiation，分化簇或分化群，也叫白细胞分化抗原）可与APC表面MHC（major　histocompatibility　complex，主要组织相容性复合体）分子结合，导致CD3与共受体的胞浆段相互作用，促进T细胞第一信号的活化。第一活化信号也叫抗原刺激信号，TCR-CD3识别抗原所产生的活化信号由CD3（A错）转导至T细胞内。CD28、CTLA-4（C错）与CD40和CD40L（E错）是共刺激分子。"
+}

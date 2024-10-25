@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-03-18-30-056",
+    "cls": "生物化学与分子生物学",
+    "numb": "14",
+    "unit": "第十二章 DNA 的合成",
+    "mode": "A1",
+    "test": "合成DNA的原料是",
+    "option": [
+        "A.dAMP，dGMP，dCMP，dTMP",
+        "B.dATP，dGTP，dCTP，dTTP",
+        "C.dADP，dGDP，dCDP，dTDP",
+        "D.dATP，dGTP，dCTP，dUTP",
+        "E.dAMP，dGMP，dCMP，dUMP"
+    ],
+    "answer": "B",
+    "point": "（P235）“DNA复制是酶促核苷酸聚合反应，底物是dATP、dGTP、dCTP、dTTP，总称dNTP”（B对）。",
+    "discuss": "DNA合成的原料为模板DNA（两股链均参与复制）、dNTP（N代表A，T，C，G）（B对）、以及DNA聚合酶，合成的产物为子代双链DNA。RNA合成原料为模板链（单股链参与合成）、NTP（N代表A，U，C，G）、以及RNA聚合酶，转录产物为mRNA，tRNA，rRNA。"
+}

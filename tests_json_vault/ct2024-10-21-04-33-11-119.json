@@ -1,0 +1,18 @@
+{
+    "name": "2024-10-21-04-33-11-119",
+    "cls": "医学免疫学",
+    "numb": "9",
+    "unit": "第八章 主要组织相容性复合体",
+    "mode": "A1",
+    "test": "编码HLA-Ⅰa类分子",
+    "option": [
+        "A.HLA-A、HLA-B、HLA-C基因",
+        "B.HLA-E、HLA-F、HLA-G基因",
+        "C.C2、C4、Bf基因",
+        "D.HLA-DP、HLA-DQ、HLA-DR基因",
+        "E.HLA-DM、HLA-DO基因"
+    ],
+    "answer": "A",
+    "point": "（P68）“HLA基因复合体包括HLAⅠ类、Ⅱ类和Ⅲ类基因区。HLAⅠ类基因区由经典Ⅰ类基因座（HLAⅠa）即A、B、C（A对）和非经典Ⅰ类基因座（HLAⅠb）即E、F、G（B错）等组成。Ⅱ类基因区由经典的DP、DQ、DR（D错）和参与抗原加工提呈的DM（E错）、TAP、PSMB等基因座组成。Ⅲ类基因区包括补体基因C2、B、C4（C错）及参与炎症反应的基因TNF、LTA、LTB和HSP等基因座位”。",
+    "discuss": "由经典的HLA（人类白细胞抗原）Ⅰ类基因座编码的产物称为HLA-Ⅰ类分子，所以编码HLA-Ⅰ类分子的有HLA-A、HLA-B、HLA-C基因（A对），HLA-E、HLA-F、HLA-G基因（B错）属于非经典HLAⅠ类基因座，C2、C4、Bf（C错）基因属于HALⅢ类基因，DP、DQ、DR、DM（DE错）属于HLAⅡ类基因。"
+}

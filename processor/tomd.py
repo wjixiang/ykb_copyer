@@ -1,5 +1,7 @@
-import os  
-import json  
+import os
+import json
+
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  
 
 def json_to_md(folder_path, output_folder):  
     # 确保输出文件夹存在  
@@ -78,7 +80,7 @@ collapse:false
                 except json.JSONDecodeError:  
                     print(f"无法解析文件: {filename}")  
 
-# 示例用法  
-folder_path = './tests'  # 替换为您的 JSON 文件夹路径  
-output_folder = './md'  # 替换为您希望保存 Markdown 文件的文件夹路径  
-json_to_md(folder_path, output_folder)
+if __name__ == "__main__":
+    folder_path = os.path.join(PROJECT_ROOT, "tests_json_vault")
+    output_folder = os.path.join(PROJECT_ROOT, "md")
+    json_to_md(folder_path, output_folder)

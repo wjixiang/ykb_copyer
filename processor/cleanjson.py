@@ -1,6 +1,8 @@
-import os  
-import json  
-import re  
+import os
+import json
+import re
+
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  
 
 def clean_json_file(file_path):  
     try:  
@@ -44,7 +46,7 @@ def process_directory(directory_path):
 
 if __name__ == "__main__":  
     # 指定要处理的目录路径  
-    directory_path = "./undefined"  # 替换为您的实际路径  
+    directory_path = os.path.join(PROJECT_ROOT, "undefined")  
     
     # 确认目录是否存在  
     if os.path.exists(directory_path):  

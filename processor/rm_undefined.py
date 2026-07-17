@@ -1,6 +1,8 @@
-import os  
-import json  
-import shutil  
+import os
+import json
+import shutil
+
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  
 
 def move_json_files_without_mode(source_folder, destination_folder):  
     # 确保目标文件夹存在  
@@ -23,7 +25,7 @@ def move_json_files_without_mode(source_folder, destination_folder):
             except (json.JSONDecodeError, FileNotFoundError) as e:  
                 print(f'Error processing file {filename}: {e}')  
 
-# 使用示例  
-source_folder = './tests'  # 替换为源文件夹路径  
-destination_folder = './undefined'  # 替换为目标文件夹路径  
-move_json_files_without_mode(source_folder, destination_folder)
+if __name__ == "__main__":
+    source_folder = os.path.join(PROJECT_ROOT, "tests_json_vault")
+    destination_folder = os.path.join(PROJECT_ROOT, "undefined")
+    move_json_files_without_mode(source_folder, destination_folder)

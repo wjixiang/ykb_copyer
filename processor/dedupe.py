@@ -1,5 +1,7 @@
-import os  
-import json  
+import os
+import json
+
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  
 
 def remove_duplicate_json_files(folder_path):  
     # 用于存储唯一的 "test" 值  
@@ -32,6 +34,6 @@ def remove_duplicate_json_files(folder_path):
                 except json.JSONDecodeError:  
                     print(f"无法解析文件: {filename}")  
 
-# 示例用法  
-folder_path = './tests'  # 替换为您的文件夹路径  
-remove_duplicate_json_files(folder_path)
+if __name__ == "__main__":
+    folder_path = os.path.join(PROJECT_ROOT, "tests_json_vault")
+    remove_duplicate_json_files(folder_path)

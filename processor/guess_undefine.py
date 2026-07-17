@@ -2,6 +2,8 @@ import os
 import json
 import re
 
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 def guess(folder_path): 
     lenth = []
     for filename in os.listdir(folder_path): 
@@ -32,5 +34,6 @@ def guess(folder_path):
     # print(lenth)
 
 
-folder_path = './undefined'  # 替换为您的文件夹路径  
-guess(folder_path)
+if __name__ == "__main__":
+    folder_path = os.path.join(PROJECT_ROOT, "undefined")
+    guess(folder_path)

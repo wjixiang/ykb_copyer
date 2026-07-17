@@ -1,5 +1,7 @@
-import os  
-import json  
+import os
+import json
+
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  
 
 def delete_empty_json_files(directory):  
     # 遍历指定目录  
@@ -22,6 +24,6 @@ def delete_empty_json_files(directory):
                 except json.JSONDecodeError:  
                     print(f"File is not a valid JSON: {file_path}")  
 
-# 指定目录路径  
-source_folder = './tests'  # 替换为源文件夹路径  
-delete_empty_json_files(source_folder)
+if __name__ == "__main__":
+    source_folder = os.path.join(PROJECT_ROOT, "tests_json_vault")
+    delete_empty_json_files(source_folder)
